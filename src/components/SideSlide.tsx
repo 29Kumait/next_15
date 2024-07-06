@@ -3,93 +3,7 @@ import React, { useState } from "react";
 import * as stylex from "@stylexjs/stylex";
 import { globalTokens as K, spacing, text } from "../app/globalTokens.stylex";
 
-const stylesSideSlide = stylex.create({
-  section: {
-    backgroundColor: `rgb(${K.backgroundStartRGB}, ${K.backgroundEndRGB})`,
-    padding: spacing.lg,
-    color: `rgb(${K.foregroundR}, ${K.foregroundG}, ${K.foregroundB})`,
-    width: "100%",
-  },
-  headline: {
-    textAlign: "center",
-    fontSize: text.h2,
-    marginBottom: spacing.md,
-  },
-  navigation: {
-    display: "flex",
-    justifyContent: "center",
-    alignItems: "center",
-    marginBottom: spacing.md,
-  },
-  cardContainer: {
-    display: "flex",
-    overflow: "hidden",
-    width: "100%",
-  },
-  cards: {
-    display: "flex",
-    transition: "transform 0.5s ease",
-    width: "100%",
-  },
-  card: {
-    backgroundColor: `rgba(${K.cardR}, ${K.cardG}, ${K.cardB}, 0.1)`,
-    backdropFilter: "blur(10px)",
-    borderRadius: K.borderRadius,
-    padding: spacing.md,
-    margin: spacing.xs,
-    color: `rgb(${K.foregroundR}, ${K.foregroundG}, ${K.foregroundB})`,
-    flex: `0 0 calc(33.3333% - 2 * ${spacing.xs})`, // 3 cards per row
-    boxSizing: "border-box",
-    textAlign: "center",
-    minHeight: "150px", // Minimum height for consistency
-  },
-  arrowButton: {
-    borderStyle: `1px solid rgb(${K.foregroundR}, ${K.foregroundG}, ${K.foregroundB})`,
-    color: `rgb(${K.foregroundR}, ${K.foregroundG}, ${K.foregroundB})`,
-    borderRadius: "50%",
-    padding: spacing.sm,
-    cursor: "pointer",
-    margin: spacing.sm,
-    backgroundColor: {
-      default: "transparent",
-      ":hover": `rgb(${K.foregroundR}, ${K.foregroundG}, ${K.foregroundB})`,
-    },
-  },
-  counter: {
-    textAlign: "center",
-    marginTop: spacing.md,
-  },
-  transformDynamic: (currentIndex: number) => ({
-    transform: `translateX(-${currentIndex * 100}%)`,
-  }),
-});
 
-const cards = [
-  {
-    title: "A-Title",
-    content: "a BODY box, TEXT description ...etc..",
-  },
-  {
-    title: "A-Title",
-    content: "a BODY box, TEXT description ...etc..",
-  },
-  {
-    title: "A-Title",
-    content: "a BODY box, TEXT description ...etc..",
-  },
-  {
-    title: "A-Title",
-    content: "a BODY box, TEXT description ...etc..",
-  },
-  {
-    title: "A-Title",
-    content: "a BODY box, TEXT description ...etc..",
-  },
-  {
-    title: "A-Title",
-    content: "a BODY box, TEXT description ...etc..",
-  },
-];
 
 const SideSlide = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -147,3 +61,112 @@ const SideSlide = () => {
 };
 
 export default SideSlide;
+
+
+
+
+const sectionBackground = `rgb(${K.backgroundStartRGB}, ${K.backgroundEndRGB})`;
+const sectionColor = `rgb(${K.foregroundR}, ${K.foregroundG}, ${K.foregroundB})`;
+const cardBackground = `rgba(${K.cardR}, ${K.cardG}, ${K.cardB}, 0.1)`;
+const cardColor = `rgb(${K.foregroundR}, ${K.foregroundG}, ${K.foregroundB})`;
+const arrowButtonColorBorderColor = `rgb(${K.foregroundR}, ${K.foregroundG}, ${K.foregroundB})`;
+const arrowButtonColor = `rgb(${K.foregroundR}, ${K.foregroundG}, ${K.foregroundB})`;
+const arrowButtonHoverColor = `rgb(${K.foregroundR}, ${K.foregroundG}, ${K.foregroundB})`;
+
+
+
+
+
+const stylesSideSlide = stylex.create({
+  section: {
+    backgroundColor: sectionBackground,
+    padding: spacing.lg,
+    color: sectionColor,
+    width: "100%",
+  },
+  headline: {
+    textAlign: "center",
+    fontSize: text.h2,
+    marginBottom: spacing.md,
+  },
+  navigation: {
+    display: "flex",
+    justifyContent: "center",
+    alignItems: "center",
+    marginBottom: spacing.md,
+  },
+  cardContainer: {
+    display: "flex",
+    overflow: "hidden",
+    width: "100%",
+  },
+  cards: {
+    display: "flex",
+    transition: "transform 0.5s ease",
+    width: "100%",
+  },
+  card: {
+    backgroundColor: cardBackground,
+    backdropFilter: "blur(10px)",
+    borderRadius: K.borderRadius,
+    padding: spacing.md,
+    margin: spacing.xs,
+    color: cardColor,
+    flex: `0 0 calc(33.3333% - 2 * ${spacing.xs})`, // 3 cards per row
+    boxSizing: "border-box",
+    textAlign: "center",
+    minHeight: "150px", // Minimum height for consistency
+  },
+  arrowButton: {
+    borderColor: arrowButtonColorBorderColor,
+    borderWidth: "1px solid",
+    color: arrowButtonColor,
+    borderRadius: "50%",
+    padding: spacing.sm,
+    cursor: "pointer",
+    margin: spacing.sm,
+    outline: {
+      ":hover": "4px auto -webkit-focus-ring-color",
+    },
+    backgroundColor: {
+      default: "transparent",
+      ":hover": arrowButtonHoverColor,
+    },
+  },
+  counter: {
+    textAlign: "center",
+    marginTop: spacing.md,
+  },
+  transformDynamic: (currentIndex: number) => ({
+    transform: `translateX(-${currentIndex * 100}%)`,
+  }),
+});
+
+
+
+const cards = [
+  {
+    title: "A-Title",
+    content: "a BODY box, TEXT description ...etc..",
+  },
+  {
+    title: "A-Title",
+    content: "a BODY box, TEXT description ...etc..",
+  },
+  {
+    title: "A-Title",
+    content: "a BODY box, TEXT description ...etc..",
+  },
+  {
+    title: "A-Title",
+    content: "a BODY box, TEXT description ...etc..",
+  },
+  {
+    title: "A-Title",
+    content: "a BODY box, TEXT description ...etc..",
+  },
+  {
+    title: "A-Title",
+    content: "a BODY box, TEXT description ...etc..",
+  },
+];
