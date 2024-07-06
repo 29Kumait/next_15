@@ -2,6 +2,8 @@ import Image from "next/image";
 import CardGrid from "../components/GridCard";
 import SideSlide from "../components/SideSlide";
 import ThemeToggleButton from "../components/ThemeButton";
+import ChartComponent from "../components/ChartComponent";
+
 
 export default function Home() {
   return (
@@ -56,6 +58,8 @@ export default function Home() {
       <section>
         <SideSlide />
       </section>
+      <ChartComponent />
+
     </main>
   );
 }

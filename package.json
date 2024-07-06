@@ -15,6 +15,7 @@
     "@stylexjs/stylex": "^0.7.5",
     "@types/react": "npm:types-react@rc",
     "@types/react-dom": "npm:types-react-dom@rc",
+    "chart.js": "^4.4.3",
     "next": "^15.0.0-rc.0",
     "react": "^19.0.0-rc-9c6806964f-20240703",
     "react-dom": "^19.0.0-rc-9c6806964f-20240703",
@@ -22,7 +23,6 @@
   },
   "devDependencies": {
     "@stylexjs/babel-plugin": "^0.7.5",
-    "rimraf": "^5.0.7",
     "@stylexjs/eslint-plugin": "^0.7.5",
     "@stylexjs/nextjs-plugin": "^0.7.5",
     "@types/node": "^20",
@@ -33,6 +33,7 @@
     "eslint-config-next": "14.2.4",
     "eslint-plugin-react-compiler": "^0.0.0-experimental-0998c1e-20240625",
     "postcss": "^8",
+    "rimraf": "^5.0.7",
     "tailwindcss": "^3.4.1"
   }
 }
