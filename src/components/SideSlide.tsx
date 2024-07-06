@@ -34,8 +34,8 @@ const SideSlide = () => {
           >
             {cards.map((card, index) => (
               <div key={index} {...stylex.props(stylesSideSlide.card)}>
-                <h3>{card.title}</h3>
-                <p>{card.content}</p>
+                <h3 {...stylex.props(stylesSideSlide.title)}>{card.title}</h3>
+                <p {...stylex.props(stylesSideSlide.content)}>{card.content}</p>
               </div>
             ))}
           </div>
@@ -116,12 +116,26 @@ const stylesSideSlide = stylex.create({
     boxSizing: "border-box",
     textAlign: "center",
     minHeight: "150px", // Minimum height for consistency
+    outline: {
+      ":hover": "4px auto -webkit-focus-ring-color",
+    },
+  },
+
+  title: {
+    fontSize: text.sm,
+    opacity: 0.7,
+
+    marginBottom: spacing.sm,
+  },
+  content: {
+    fontSize: text.h4,
+    fontWeight: 600,
   },
   arrowButton: {
     borderColor: arrowButtonColorBorderColor,
     borderWidth: "1px solid",
     color: arrowButtonColor,
-    borderRadius: "50%",
+    borderRadius: "19%",
     padding: spacing.sm,
     cursor: "pointer",
     margin: spacing.sm,

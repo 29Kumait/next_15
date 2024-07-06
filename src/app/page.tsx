@@ -55,10 +55,10 @@ export default function Home() {
           <p className="m-0 max-w-[30ch] text-sm opacity-50"></p>
         </a>
       </div>
-      <div>
-        <CardGrid />
-      </div>
-      <SideSlide />
+      <CardGrid />
+      <section>
+        <SideSlide />
+      </section>
     </main>
   );
 }
