@@ -8,7 +8,7 @@ export default function InputSave() {
 
 
     const [formState, action] = useActionState(ContentFormRequest, {
-        success: null,
+        success: false,
         message: "",
     });
 
@@ -42,7 +42,7 @@ const stylesContentForm = stylex.create({
     },
     button: {
         color: "#4b51b7",
-        alignItems: "center",
+        display: "flex",
         borderColor: "#4a86c7",
         borderRadius: 8,
     },
@@ -54,9 +54,11 @@ const stylesContentForm = stylex.create({
         fontSize: 16,
         fontWeight: "normal",
         lineHeight: 1.25,
-        padding: "26px 16px 10px",
+        paddingBottom: 10,
+        paddingInlineEnd: 16,
+        paddingTop: 26,
         width: "100%",
-        alignSelf: "center",
+        margin: "0 auto",
     },
 });
 
