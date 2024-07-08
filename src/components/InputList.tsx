@@ -14,7 +14,7 @@ export default function InputList() {
 
     useEffect(() => {
         action();
-    }, []);
+    }, [action]);
 
     return (
         <>
@@ -41,16 +41,10 @@ const stylesInputList = stylex.create({
         display: "flex",
         flexBasis: 0,
         flexGrow: 1,
-        height: "auto",
         justifyContent: "center",
-        marginEnd: "auto",
-        marginStart: "auto",
-        paddingEnd: 8,
-        paddingStart: 8,
+        padding: "29px 8px",
         maxWidth: "calc(80% - 30px)",
-        backgroundColor: "rbg(106,115,123)",
-        paddingTop: 49,
-        paddingBottom: 29,
+        backgroundColor: "rgb(106,115,123)",
         textAlign: "center",
     },
 });
