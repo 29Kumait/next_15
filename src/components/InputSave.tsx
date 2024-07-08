@@ -4,7 +4,7 @@ import { useActionState } from "react";
 import stylex from "@stylexjs/stylex";
 import { ContentFormRequest } from '@/actions/actions';
 
-export default function ContentManager() {
+export default function InputSave() {
 
 
     const [formState, action] = useActionState(ContentFormRequest, {

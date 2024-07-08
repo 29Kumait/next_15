@@ -3,7 +3,8 @@ import CardGrid from "../components/GridCard";
 import SideSlide from "../components/SideSlide";
 import ThemeToggleButton from "../components/ThemeButton";
 import ChartComponent from "../components/ChartComponent";
-import ContentManager from "../components/ContentManager";
+import InputSave from "../components/InputSave";
+import InputList from "../components/InputList";
 
 
 export default function Home() {
@@ -60,7 +61,8 @@ export default function Home() {
         <SideSlide />
       </section>
       <ChartComponent />
-      <ContentManager />
+      <InputSave />
+      <InputList />
 
     </main>
   );
