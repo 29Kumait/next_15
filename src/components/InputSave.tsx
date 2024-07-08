@@ -36,8 +36,8 @@ export default function InputSave() {
 const stylesContentForm = stylex.create({
     form: {
         maxWidth: 380,
-        marginStart: "auto",
-        marginEnd: "auto",
+        marginInlineStart: "auto",
+        marginInlineEnd: "auto",
         marginBottom: 34,
     },
     button: {
