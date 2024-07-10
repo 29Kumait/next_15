@@ -10,7 +10,7 @@ interface ListProps {
 }
 
 const List: React.FC<ListProps> = ({ listObj = [] }) => (
-    <ul>
+    <ul className="space-y-2 w-full">
         {listObj.map(item => (
             <ListItem key={item.id} id={item.id} name={item.name} url={item.url} />
         ))}
