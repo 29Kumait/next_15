@@ -17,3 +17,18 @@ export const fetchListData = async (): Promise<Array<{ id: string; name: string;
         throw new Error('Failed to fetch list data');
     }
 };
+
+interface ListData {
+    id: string;
+    name: string;
+    url: string;
+}
+export const fetchData = async (): Promise<ListData[]> => {
+    const url = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:3000/api/fetchListData';
+    const response = await fetch(url);
+    if (!response.ok) {
+        throw new Error('Failed to fetch list data');
+    }
+    return response.json();
+};
+
