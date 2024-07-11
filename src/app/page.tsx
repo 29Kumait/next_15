@@ -1,20 +1,54 @@
+import React, { Suspense } from 'react';
+import List from "../components/List";
+import data from "../data.json";
 import Head from "../components/Head";
-import ListDataSuspense from "../components/ListDataUse";
-import { ListData, ListFetch } from "../components/List";
+import { fetchListData } from "../actions/actions";
+// import ListDataUse from "../components/ListDataUse";
 
-export default function Home() {
+interface ListData {
+  id: string;
+  name: string;
+  url: string;
+}
 
+const fetchData = async (): Promise<ListData[]> => {
+  const url = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:3000/api/fetchListData';
+  const response = await fetch(url);
+  if (!response.ok) {
+    throw new Error('Failed to fetch list data');
+  }
+  return response.json();
+};
+
+
+
+
+export default async function Home() {
+
+  const list = await fetchListData();
+
+  // const listDataPromise = fetchData();
 
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24 bg-gray-100">
-      <div className="z-10 w-full max-w-5xl border-4 border-gray-800 p-8 bg-white flex items-center justify-center font-bold text-3xl mb-2">
-        <Head />
+      <div className="w-full max-w-5xl border-4 border-gray-800 p-8 bg-white">
+        <div className="z-10 w-full max-w-5xl border-4 border-gray-800 p-8 bg-white flex items-center justify-center font-bold text-3xl mb-2">
+          <Head />
+        </div>
+        <div className="z-10 w-full max-w-5xl items-center justify-between font-mono text-sm lg:flex">
+          <List listObj={data} />
+        </div>
+        <div className="mt-4">
+          <h1 className="text-2xl border-4 border-gray-800 p-8 bg-white font-bold mb-4">(SSR)</h1>
+          <List listObj={list} />
+        </div>
+
       </div>
-      <div className="z-10 w-full max-w-5xl items-center justify-between font-mono text-sm lg:flex">
-        <ListData />
-        <ListFetch />
-      </div>
-      <ListDataSuspense />
+      {/* <div>
+        <Suspense fallback={<div>Loading...</div>}>
+          <ListDataUse listDataPromise={listDataPromise} />
+        </Suspense>
+      </div> */}
     </main>
   );
 }
