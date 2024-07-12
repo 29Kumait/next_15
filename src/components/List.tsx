@@ -1,4 +1,6 @@
+import stylex from "@stylexjs/stylex";
 import ListItem from './ListItem';
+
 interface ListProps {
     listObj: Array<{
         id: string;
@@ -10,8 +12,8 @@ interface ListProps {
 
 const List: React.FC<ListProps> = ({ listObj = [], title }) => (
     <div>
-        <h1 className="text-2xl border-4 border-gray-800 p-8 font-bold mb-4">{title}</h1>
-        <ul className="space-y-2 w-full">
+        <h1 {...stylex.props(stylesList.heading)}>{title}</h1>
+        <ul {...stylex.props(stylesList.list)}>
             {listObj.map(item => (
                 <ListItem key={item.id} {...item} />
             ))}
@@ -20,3 +22,18 @@ const List: React.FC<ListProps> = ({ listObj = [], title }) => (
 );
 
 export default List;
+
+const stylesList = stylex.create({
+    heading: {
+        fontSize: '20px',
+        borderWidth: '4px',
+        borderColor: '#1f2937',
+        padding: '2rem',
+        fontWeight: 'bold',
+        marginBottom: '1rem',
+    },
+    list: {
+        marginTop: '0.5rem',
+        width: '100%',
+    }
+});
