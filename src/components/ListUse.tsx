@@ -14,9 +14,9 @@ const ListUse = ({ listPromise }: ListUseProps) => {
     return (
         <div>
             <ul>
-                {list.map(item => (
-                    <li key={item.id}>
-                        <a href={item.url}>{item.name}</a>
+                {list.map(({ id, name, url }) => (
+                    <li key={id}>
+                        <a href={url}>{name}</a>
                     </li>
                 ))}
             </ul>
