@@ -1,6 +1,4 @@
-import React from 'react';
 import ListItem from './ListItem';
-
 interface ListProps {
     listObj: Array<{
         id: string;

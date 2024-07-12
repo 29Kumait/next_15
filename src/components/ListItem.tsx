@@ -1,5 +1,3 @@
-import React from "react";
-
 interface ListItemProps {
     id: string
     name: string;

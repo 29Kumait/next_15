@@ -1,19 +1,12 @@
-import React, { Suspense } from 'react';
 import List from "../components/List";
 import data from "../data.json";
 import Head from "../components/Head";
 import { fetchListData } from "../actions/actions";
-import ListUse from '../components/ListUse';
-
-
-
+import ListUseSuspense from '../components/ListUseSuspense';
 
 export default async function Home() {
 
-  const list = await fetchListData();
-
-  const listPromise = fetchListData();
-
+  const list = fetchListData();
 
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24 bg-gray-100">
@@ -25,14 +18,10 @@ export default async function Home() {
           <List listObj={data} />
         </div>
         <div className="mt-4">
-          <h1 className="text-2xl border-4 border-gray-800 p-8 bg-white font-bold mb-4">(SSR)</h1>
-          <List listObj={list} />
+          <List listObj={await list} />
         </div>
         <div className="mt-4">
-          <h1 className="text-2xl border-4 border-gray-800 p-8 bg-white font-bold mb-4"> `Suspense` component & `use` API</h1>
-          <Suspense fallback={<div>Loading...</div>}>
-            <ListUse listPromise={listPromise} />
-          </Suspense>
+          <ListUseSuspense listPromise={list} />
         </div>
       </div>
     </main>
