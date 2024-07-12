@@ -5,14 +5,13 @@ import { fetchListData } from "../actions/actions";
 import ListUseSuspense from '../components/ListUseSuspense';
 
 export default async function Home() {
-
   const list = fetchListData();
 
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24 bg-gray-100">
-      <div className="w-full max-w-5xl border-4 border-gray-800 p-8 bg-white">
-        <div className="z-10 w-full max-w-5xl border-4 border-gray-800 p-8 bg-white flex items-center justify-center font-bold text-3xl mb-2">
-          <Head />
+    <main className="flex min-h-screen flex-col items-center justify-between p-24">
+      <div className="w-full max-w-5xl border-4 border-gray-800 p-8">
+        <div className="z-10 w-full max-w-5xl border-4 border-gray-800 p-8 flex items-center justify-center font-bold text-3xl mb-2">
+          <Head title="Headline" />
         </div>
         <div className="mt-4">
           <List title="Static Content" listObj={data} />
