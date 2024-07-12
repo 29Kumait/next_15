@@ -1,8 +1,13 @@
-const Head = () => {
+interface HeadProps {
+    title: string;
+}
+
+const Head: React.FC<HeadProps> = ({ title }) => {
     return (
         <header>
-            <h1>Headline</h1>
+            <h1>{title}</h1>
         </header>
     );
 };
+
 export default Head;

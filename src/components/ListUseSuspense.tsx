@@ -1,4 +1,6 @@
 import { use, Suspense } from 'react';
+import List from './List';
+
 interface List {
     id: string;
     name: string;
@@ -13,13 +15,7 @@ const ListUse = ({ listPromise }: ListUseProps) => {
 
     return (
         <div>
-            <ul>
-                {list.map(({ id, name, url }) => (
-                    <li key={id}>
-                        <a href={url}>{name}</a>
-                    </li>
-                ))}
-            </ul>
+            <List title=" `Suspense` component & `use` API " listObj={list} />
         </div>
     );
 };
@@ -27,12 +23,10 @@ const ListUse = ({ listPromise }: ListUseProps) => {
 const ListUseSuspense = ({ listPromise }: ListUseProps) => {
 
     return (
-        <>
-            <h1 className="text-2xl border-4 border-gray-800 p-8 bg-white font-bold mb-4"> `Suspense` component & `use` API</h1>
-            <Suspense fallback={<div>Loading...</div>}>
-                <ListUse listPromise={listPromise} />
-            </Suspense>
-        </>
+        <Suspense fallback={<div>Loading...</div>}>
+            <ListUse listPromise={listPromise} />
+        </Suspense>
+
     );
 }
 
