@@ -1,7 +1,9 @@
+import React, { Suspense } from 'react';
 import List from "../components/List";
 import data from "../data.json";
 import Head from "../components/Head";
 import { fetchListData } from "../actions/actions";
+import ListUse from '../components/ListUse';
 
 
 
@@ -9,6 +11,8 @@ import { fetchListData } from "../actions/actions";
 export default async function Home() {
 
   const list = await fetchListData();
+
+  const listPromise = fetchListData();
 
 
   return (
@@ -23,6 +27,12 @@ export default async function Home() {
         <div className="mt-4">
           <h1 className="text-2xl border-4 border-gray-800 p-8 bg-white font-bold mb-4">(SSR)</h1>
           <List listObj={list} />
+        </div>
+        <div className="mt-4">
+          <h1 className="text-2xl border-4 border-gray-800 p-8 bg-white font-bold mb-4"> `Suspense` component & `use` API</h1>
+          <Suspense fallback={<div>Loading...</div>}>
+            <ListUse listPromise={listPromise} />
+          </Suspense>
         </div>
       </div>
     </main>
