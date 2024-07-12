@@ -1,22 +1,20 @@
+import React from 'react';
+import ListItem from './ListItem';
+
 interface ListProps {
-    listObj: {
+    listObj: Array<{
+        id: string;
         name: string;
         url: string;
-    }[];
+    }>;
 }
 
-const List = ({ listObj }: ListProps) => {
-    return (
-        <ul>
-            {listObj.map((obj) => (
-                <li key={obj.name}>
-                    {obj.name}
-                    <a href={obj.url} target="_blank" rel="noopener noreferrer">
-                    </a>
-                </li>
-            ))}
-        </ul>
-    );
-};
+const List: React.FC<ListProps> = ({ listObj = [] }) => (
+    <ul className="space-y-2 w-full">
+        {listObj.map(item => (
+            <ListItem key={item.id} {...item} />
+        ))}
+    </ul>
+);
 
 export default List;
