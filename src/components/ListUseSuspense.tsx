@@ -1,4 +1,4 @@
-import React, { use } from 'react';
+import { use, Suspense } from 'react';
 interface List {
     id: string;
     name: string;
@@ -24,5 +24,17 @@ const ListUse = ({ listPromise }: ListUseProps) => {
     );
 };
 
-export default ListUse;
+const ListUseSuspense = ({ listPromise }: ListUseProps) => {
 
+    return (
+        <>
+            <h1 className="text-2xl border-4 border-gray-800 p-8 bg-white font-bold mb-4"> `Suspense` component & `use` API</h1>
+            <Suspense fallback={<div>Loading...</div>}>
+                <ListUse listPromise={listPromise} />
+            </Suspense>
+        </>
+    );
+}
+
+
+export default ListUseSuspense;
