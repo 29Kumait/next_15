@@ -14,11 +14,11 @@ export default async function Home() {
         <div className="z-10 w-full max-w-5xl border-4 border-gray-800 p-8 bg-white flex items-center justify-center font-bold text-3xl mb-2">
           <Head />
         </div>
-        <div className="z-10 w-full max-w-5xl items-center justify-between font-mono text-sm lg:flex">
-          <List listObj={data} />
+        <div className="mt-4">
+          <List title="Static Content" listObj={data} />
         </div>
         <div className="mt-4">
-          <List listObj={await list} />
+          <List title="Server-Side Rendering (SSR)" listObj={await list} />
         </div>
         <div className="mt-4">
           <ListUseSuspense listPromise={list} />
