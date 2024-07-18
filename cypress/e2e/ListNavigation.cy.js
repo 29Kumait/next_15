@@ -1,9 +1,12 @@
 describe("List Navigation", () => {
+  const links = [
+    { text: "Google", url: "https://www.google.com/" },
+    { text: "Facebook", url: "https://www.facebook.com/" },
+    { text: "Twitter", url: "https://www.twitter.com/" },
+  ];
   beforeEach(() => {
-    cy.visit("/"); // Navigates to the base URL (application's home page).
+    cy.visit("/");
   });
-
-  // allows the test to proceed even if there are JavaScript errors on the page.
   Cypress.on("uncaught:exception", (err, runnable) => {
     console.error("Uncaught exception:", err);
     return false;
@@ -22,19 +25,50 @@ describe("List Navigation", () => {
           .should("eq", expectedUrl);
       });
   }
-  // Individual Tests for Each Link:
-  it("should change the URL when the Google link is clicked", () => {
-    testLinkNavigation("Google", "https://www.google.com/");
-  });
-
-  it("should change the URL when the Facebook link is clicked", () => {
-    testLinkNavigation("Facebook", "https://www.facebook.com/");
-  });
-
-  it("should change the URL when the Twitter link is clicked", () => {
-    testLinkNavigation("Twitter", "https://www.twitter.com/");
+  links.forEach(({ text, url }) => {
+    it(`should change the URL when the ${text} link is clicked`, () => {
+      testLinkNavigation(text, url);
+    });
   });
 });
+
+// describe("List Navigation", () => {
+//   beforeEach(() => {
+//     cy.visit("/"); // Navigates to the base URL (application's home page).
+//   });
+
+//   // allows the test to proceed even if there are JavaScript errors on the page.
+//   Cypress.on("uncaught:exception", (err, runnable) => {
+//     console.error("Uncaught exception:", err);
+//     return false;
+//   });
+
+//   function testLinkNavigation(linkText, expectedUrl) {
+//     cy.intercept("GET", expectedUrl).as("externalRequest");
+//     cy.get("ul li a")
+//       .contains(linkText)
+//       .should("be.visible")
+//       .then((link) => {
+//         cy.wrap(link).invoke("removeAttr", "target");
+//         cy.wrap(link).click();
+//         cy.wait("@externalRequest")
+//           .its("request.url")
+//           .should("eq", expectedUrl);
+//       });
+//   }
+//   // Individual Tests for Each Link:
+//   it("should change the URL when the Google link is clicked", () => {
+//     testLinkNavigation("Google", "https://www.google.com/");
+//   });
+
+//   it("should change the URL when the Facebook link is clicked", () => {
+//     testLinkNavigation("Facebook", "https://www.facebook.com/");
+//   });
+
+//   it("should change the URL when the Twitter link is clicked", () => {
+//     testLinkNavigation("Twitter", "https://www.twitter.com/");
+//   });
+// });
 
 // describe("List Navigation", () => {
 //   beforeEach(() => {
