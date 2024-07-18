@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import stylex from "@stylexjs/stylex";
 
 interface ListItemProps {
@@ -7,16 +8,11 @@ interface ListItemProps {
 }
 
 const ListItem: React.FC<ListItemProps> = ({ id, name, url }) => (
-    <li {...stylex.props(stylesListItem.listItem)} key={id}>
+    <li key={id} {...stylex.props(stylesListItem.listItem)}>
         <span {...stylex.props(stylesListItem.itemName)}>{name}</span>
-        <a
-            {...stylex.props(stylesListItem.itemLink)}
-            href={url}
-            target="_blank"
-            rel="noopener noreferrer"
-        >
+        <Link href={url} {...stylex.props(stylesListItem.itemLink)}>
             URL: {name}
-        </a>
+        </Link>
     </li>
 );
 
