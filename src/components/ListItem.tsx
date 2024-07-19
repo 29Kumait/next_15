@@ -7,16 +7,19 @@ interface ListItemProps {
     url: string;
 }
 
-const ListItem: React.FC<ListItemProps> = ({ id, name, url }) => (
-    <li key={id} {...stylex.props(stylesListItem.listItem)}>
-        <span {...stylex.props(stylesListItem.itemName)}>{name}</span>
-        <Link href={url} {...stylex.props(stylesListItem.itemLink)}>
-            URL: {name}
-        </Link>
-    </li>
-);
+const ListItem: React.FC<ListItemProps> = ({ id, name, url }) => {
+    return (
+        <li key={id} {...stylex.props(stylesListItem.listItem)}>
+            <span {...stylex.props(stylesListItem.itemName)}>{name}</span>
+            <Link href={url} {...stylex.props(stylesListItem.itemLink)}>
+                {url}
+            </Link>
+        </li>
+    );
+};
 
 export default ListItem;
+
 
 const stylesListItem = stylex.create({
     listItem: {

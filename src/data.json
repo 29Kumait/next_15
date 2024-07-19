@@ -1,5 +1,6659 @@
-[
-  { "id": "1", "name": "Google", "url": "https://www.google.com" },
-  { "id": "2", "name": "Facebook", "url": "https://www.facebook.com" },
-  { "id": "3", "name": "Twitter", "url": "https://www.twitter.com" }
-]
+{
+  "exercice0": [
+    {
+      "id": "5b9fc688-ab22-49f6-9d67-5691e8cb4578",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "86250b38-6376-4a1b-81ab-079362886346",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f9c6e11d-55d2-49b4-886d-9fa73bc1fd12",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "6f952622-7ee8-4812-87e9-b4efe8a9b26c",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "54d247f3-77ef-4f32-b300-d2d6177c41fd",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "04839ce8-8fba-4530-a701-f82cd20e70e2",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "82434382-bc95-4e60-954a-64f7dbae20be",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "99452770-fd24-4112-bd7c-d0ec3bc701d7",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "dc205ead-6b7f-46a1-a596-7d019b2fd881",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "4cc40161-82a1-4bc7-9ef8-35fb30eeef5a",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "2d3f3dce-bbfa-4590-9e22-634509001139",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "cee10527-3011-4f8f-82bb-4e64b24e96a1",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f7b7d8b5-e4b5-4154-a471-2a21fead017f",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "d75c4d2b-3886-4d1e-8dd1-09a465e458e7",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice1": [
+    {
+      "id": "6dc35dca-2ef3-4a28-94d3-fb516f3f0197",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "7eed8d7c-bddb-4a68-b152-f0098c0510a5",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "917e55d7-a95d-4b90-94ce-a44c72052508",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "308ef77d-7f63-4d74-8c30-7a361de5ded6",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a56fc6c3-7f63-446d-b924-a2312f4cc1fb",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a4cf2f20-8188-40d4-bffa-1df89125f0f2",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "bf72cb1a-a066-4c31-b7bc-112a872513ba",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "bc7502c7-ec34-4970-9790-769218ce4d82",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "6ab9cba3-90a9-41cb-a723-4e7c08828cb9",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "d240b8e8-d390-48a8-8147-0d14b069f293",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "337507d3-c376-4a18-831a-ee755a29090a",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "5ca4b916-e131-40c7-a123-b02dc9563e0e",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "fc49d830-64e0-467e-8544-d28482319381",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice2": [
+    {
+      "id": "ce0898f8-1f05-4f4d-a42f-fdef36f80da0",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ceb89d80-a609-421d-b6bd-6e1a5dbac461",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "addf6e01-228a-4b58-8bb0-a6406c60343c",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "2b74871a-4694-4ca2-a6ab-c49695cf17b2",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "0fdba321-a4d7-48ab-95ec-32e4a7ae34a6",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "8cf1b66e-57ea-4a3c-9ec0-e55ee5b142f7",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "459bfdfd-3a43-4a8e-87d6-6b63a0102cce",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice3": [
+    {
+      "id": "9aed05e0-9183-4e93-b425-69a8f495ad07",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "1b71fee1-4b9c-4938-a55f-f9106827e635",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "2dc09b49-dc86-4e36-86e2-22d4190ff405",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "e12f55ed-d44e-4a3b-b600-99a77f9863a5",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f4b14f37-4dfc-43c6-8a92-cb973ee6347e",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "23644171-b657-4864-8d66-18e7e7c0ce8f",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice4": [
+    {
+      "id": "d1eb414f-4ef0-4a92-aaff-7aa138294ecb",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a594d000-40b4-4138-9615-e51a270724b6",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "67b3e70f-11eb-4220-9a9d-46fa2b234083",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "2a5d6eb2-35f6-4f1f-ae72-c23fab291f74",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "57b422c9-cf6c-4994-96e1-3731cb38394e",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a293184e-99d8-49b4-983c-0e3d7ee0702d",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "59b180a2-f206-426a-8e1f-4f70e4844cbe",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "423110ff-9d6c-436d-a29c-c4c6adb756c6",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "1ad0e4e7-83a1-43af-ab94-438c6b9110d7",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "30caec8b-633b-4fee-9ccf-d47d1c9b8013",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "02c5d05b-9040-4163-a2df-6115ac5539fe",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "37c1c641-b46c-4678-ba2f-dc426ca46001",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f72c886e-b408-40fc-b6b5-c6d7fdd98152",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "dee17ef4-cc26-46b0-b0ca-48ef20d3f31c",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f2b6c5c2-c2c3-40a1-a547-8b809b1a0931",
+      "name": "someone's work 14",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "3bf88972-a47d-46e9-972f-56ec6cbd6d8f",
+      "name": "someone's work 15",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "989c71ee-12ab-4878-a024-347af6bed777",
+      "name": "someone's work 16",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "35f2fdb8-1d81-4e50-819f-6fdd3acf87ac",
+      "name": "someone's work 17",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "1770d202-9bad-42c7-b65d-2fea3dd4a20b",
+      "name": "someone's work 18",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "452455eb-7742-4f2b-88cf-43730b6e3cd3",
+      "name": "someone's work 19",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "e3cc4f1f-fe4c-48e3-860f-da567f23e91d",
+      "name": "someone's work 20",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "18b8a240-5f8c-4800-84ea-20a1257f0343",
+      "name": "someone's work 21",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "487a883f-35ad-4c3b-a7b8-ecf9311a6ac5",
+      "name": "someone's work 22",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "de1a00a7-dda0-4cd4-af27-4d761250e716",
+      "name": "someone's work 23",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "24e3d7cd-6f8d-46db-a4fc-036dc39f7702",
+      "name": "someone's work 24",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "0e8d0286-1c61-4c01-ad8f-7e36f1112664",
+      "name": "someone's work 25",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "111efb55-21f1-4bb7-b6cb-00287058876a",
+      "name": "someone's work 26",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice5": [
+    {
+      "id": "044608f9-ff5e-4fa5-b24e-d2b0432c7b02",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "e3ce0857-f3fc-42a5-a98f-68b1e76f39bc",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "3e40152f-0715-4da9-8832-8e6965a70676",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "036c480e-00cb-4982-8f4a-b8afd57f64c3",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "661af566-2bc9-4ef1-b18a-42bdc4f852d4",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f1a843e7-e75b-4c5a-ad2f-11665fd4c956",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ea1014cc-a242-48c8-b6e3-3e74abe2f845",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "eadbae8b-ed44-4cef-98bf-adda221c516c",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "7ec2007a-e1c7-4bc4-920c-8bfb81029c7a",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "350bdd94-38a8-48e5-af2e-8fde85414077",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "97e4f2c2-ef86-4a4e-9671-f9b8e0e80069",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "7fa64aa4-92e2-4f77-9af9-9b91bce9306c",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "5f15592e-2f8d-4d04-9556-7e53f1eed3b5",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "5e30ddb0-42e2-47b9-a5a5-cdb9fcd7898c",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "86d8aacc-6d48-4a65-b827-928301a974b9",
+      "name": "someone's work 14",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "58a011ef-8bdc-4bcd-b7a7-42069c262b09",
+      "name": "someone's work 15",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "9248532e-673d-48b6-8335-0c924e7f9eef",
+      "name": "someone's work 16",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "cfd99775-c794-4162-adb4-c6b7f3cd5cab",
+      "name": "someone's work 17",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c8d74d4c-e6b8-4867-9966-fd1954001415",
+      "name": "someone's work 18",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ea420146-50ae-4460-b392-a91303fcff8b",
+      "name": "someone's work 19",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "e1996b1c-bb1e-4d0f-a16d-0edc6639c066",
+      "name": "someone's work 20",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "55a837b5-edb6-4463-906f-e3418c1b9a4d",
+      "name": "someone's work 21",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ce645d1d-d8e1-4c90-b1ee-f0f8c234ea87",
+      "name": "someone's work 22",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "5f462c4c-bdfd-4f1e-a358-04f9296b6ca3",
+      "name": "someone's work 23",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "75a34b18-56b1-412d-b506-58d8cf34a887",
+      "name": "someone's work 24",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice6": [
+    {
+      "id": "e7691c44-8d65-4f96-88d5-6c47def06f82",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice7": [
+    {
+      "id": "31dd6fff-7c05-4102-bb00-e0b29141f766",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "d317c488-5f4e-489d-9932-34fa656dd6ac",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "74a4a274-6d4b-448f-9675-76aec4ddb9ae",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice8": [
+    {
+      "id": "df7e8ac3-13a7-42ea-beb2-c3b965f07a7b",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "175be84f-d893-43fe-bc70-1bc364a54b90",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "460d9ab3-d752-4233-99f7-956e2d8658f6",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "29e06222-7c92-482e-bddd-b8f85183b16c",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "5ecfa579-4283-4cfa-bdd8-d6cebd50254a",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "8e400253-f033-4219-ba71-07c8d08e4e83",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a708e111-7f09-40bf-8887-30013d22f7f1",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "e8a2cf5f-d8e0-4d51-9683-4a8cab7c89f1",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b8ef43ff-84c4-468b-929c-19a899a06dc0",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b860e3eb-9cbd-4f28-b05f-d1c2144b0087",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b51949b6-2ccc-49aa-bd6d-03eb4aedbf5d",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ff79210f-fadc-4306-aa88-0ef9a0dbb99e",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c13648ad-39f8-40c5-a254-d3060d74c315",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b16389cf-2d98-4a84-828c-6fe9f06f8a2d",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "1f66e9af-b013-4003-bbd4-c77265f420e3",
+      "name": "someone's work 14",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "fa83ad1b-7256-48fc-ad9d-ca2721d562b3",
+      "name": "someone's work 15",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "9fe69de5-eadf-4d5c-b25a-54b68305920e",
+      "name": "someone's work 16",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a7302a2c-bd44-4a6c-8590-71d41d1a094b",
+      "name": "someone's work 17",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "69b0a204-6a1e-499b-b7d1-23fda7cbd48c",
+      "name": "someone's work 18",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice9": [
+    {
+      "id": "f8569fa5-fad5-4246-a347-2d7709f365c7",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "caa5d814-50f4-45dd-b547-bb3a25cc684f",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "fb51c567-b68e-4e1e-9016-8b1ffd779144",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "6707112e-2a1a-4071-91b5-fcb38d221d24",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "8cc96d04-6aba-46fd-bc6e-c0ec92ff42eb",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "6e79e480-fb3f-4fd6-ba91-336ae0871aad",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b6f7d088-c47f-43b4-b4b3-1a7dc0e93c0f",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "4dbb0963-1f83-4bd1-9603-ef33cf7b8c0d",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "35defae3-fc75-4c21-8e63-73b14aa8267f",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "739fb567-e54d-436b-8e5e-37d03acec5d1",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c9040523-58c3-472b-950b-942ee15240a9",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a697af35-84db-40ba-8c26-c2511e7b073e",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "d6ab0139-3965-4ea4-9873-7200afb6e9cf",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice10": [
+    {
+      "id": "2b1ced05-64c8-47e1-b83a-a2bf8d720bf3",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b0cd520e-5b19-4595-b86b-68fe4ea4bbdc",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "87040893-9e62-4c41-8168-973e02dffe5b",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "e7f332b5-a230-4780-b3f5-d9c365ad08b7",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ef872cbf-0a1b-4edf-94a9-5778d5713cd2",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "bdb92fd8-b7b9-4eda-b5de-eacac30ca040",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "71160849-120a-4363-b0b1-e88ad99b9db8",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "e8666066-9c70-4ec0-879d-ddd49da887b7",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "1c9d559d-45ec-4a99-8a76-fbe2264d4280",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ceb150c4-58d5-4688-ba34-3d68e037caf0",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "fdc6fd88-5846-44d1-a5fa-7a3c1b9e36a7",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "76307224-2344-40aa-aebe-9e72d01cc2d8",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "3453678e-c07e-4a26-9188-6c69215d9dd9",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice11": [
+    {
+      "id": "65e4afd3-01f1-4c5c-be15-8c670e74f18f",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "4c054277-0244-45bb-9ac7-80f2f3b931e9",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "343a9b50-2375-4e92-87b0-d4ad4c3d4a3d",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "015b0ff6-ab16-448d-a078-7bdb8e336110",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "0e3f53ed-d348-490b-ad3d-a60a4f488659",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b48a8cb7-834f-4ba3-bb6e-51ad75cccd98",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "bd096f0b-7daa-42ec-9cfa-5f275b655550",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ec681793-4a88-4e85-89ca-47e934e4bdbf",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "086d15c2-c62d-434a-8177-da3b43e46f7c",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "646d833c-e54f-4571-941b-fc48780a47ce",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "4dd91346-2111-426a-9603-483baa5b4928",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "06d16505-08a5-49c8-8652-f43860d4021a",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "5bdfb6eb-356f-4bcd-9b8b-74ccdb4f5153",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ce72a894-c345-4147-95e4-cb3ed70b8c62",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "2b0e799b-d732-45b5-bee6-18686496bb07",
+      "name": "someone's work 14",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ee7579e2-2ae2-4ee4-8c82-863060bd9f4a",
+      "name": "someone's work 15",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "e50c2db0-4078-4b58-961a-f2b77ff127c1",
+      "name": "someone's work 16",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "bed67deb-63b0-4b39-b697-d1465994a687",
+      "name": "someone's work 17",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "32695df3-e883-4cec-97b6-74f4796643ae",
+      "name": "someone's work 18",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "1df32913-ead2-4d26-aed0-12dd1240ea9e",
+      "name": "someone's work 19",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "5d555e3e-3fa3-46aa-9cab-be9059989e4d",
+      "name": "someone's work 20",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "13602e09-10a3-4302-af3d-c644cb42e456",
+      "name": "someone's work 21",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "59b8beef-c37e-4ff3-930c-9ff68b471ca4",
+      "name": "someone's work 22",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b4ed4373-18cc-41f8-be4e-0dfb92fda9df",
+      "name": "someone's work 23",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "69bf1c5f-d2b2-472c-b2a6-abc669e20de8",
+      "name": "someone's work 24",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "95967c11-8815-456a-8c78-da7142dc9563",
+      "name": "someone's work 25",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "177fe038-a010-4ac1-b656-1dc7024678f1",
+      "name": "someone's work 26",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "78e1f7c0-5ddc-4c71-b6f0-b87ee7343a9a",
+      "name": "someone's work 27",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice12": [
+    {
+      "id": "466dd5ca-d8f7-4a35-a41a-ea686c51bd68",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "da087d82-3a65-4430-999f-2ad0db7f17fe",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice13": [
+    {
+      "id": "4281a39d-eedc-462d-9d25-e05dfbd61163",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "d1f2edf8-8478-46eb-8432-c7031f75da6b",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f21983d4-1a4f-4c2a-9da3-6c8b85aa2069",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "0117d2f0-c39a-4ac0-aea1-8ae2f7c17772",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "92194315-f4a9-482a-9ae3-9ac44dc5aeff",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "eab32a07-edd3-4f98-85ed-dead6e4e9caa",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "3a9a25f0-3422-40ed-8769-29f870b63d5b",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "089b8d2e-cce6-4500-b885-922d0dd4e938",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "3344985d-075b-4dfa-bc27-1801f08af593",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "7b7c5f61-3ab4-45a4-b0cf-5ee8102c66b3",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f30d2a01-afd2-4fb9-a67d-c2747e3dd1d1",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "0ebc2f40-a48f-43db-b1b6-1fa9fe62e7e1",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "8200eff5-4bfd-406e-92f9-c610a1aca035",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "07d233b5-9275-4adb-b224-883cf7e8e8eb",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "93f1f49a-1318-41b9-9eba-cce25a91aa69",
+      "name": "someone's work 14",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice14": [
+    {
+      "id": "659ca8ef-7ccb-4231-a7f4-90be1de560e0",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "158c44f2-45e7-4883-96df-32f6f92ef5a5",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "8422c8c4-be14-4104-bd39-9796b14a45b8",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a043d9d3-58ea-4c9e-966c-283b29d4c5e2",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a092b44a-cd7a-4cf3-8264-5fc02a39eb8f",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c33090fc-6c7d-49a7-8f5d-9eb97b51b65c",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice15": [
+    {
+      "id": "fa894c60-ea95-4a71-bdbf-9c8d47ff634a",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b4d0d7ec-6ee8-4b64-a137-fedf51cc3adf",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "e5855c1f-f54c-4b3b-8484-2997fe0841c1",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "0fbf3d3e-6a5c-499b-9de8-f20d581b95f9",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "fe6cc609-a2c4-48bf-89f1-e0b5729dbca5",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "8e5089cb-fb15-41ab-946c-c54c82da4878",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "1f7273ac-e291-48ad-8090-52d8b0d512e3",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "d26a930e-4b93-49be-b835-cfa895e407c5",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "9e8f2dfa-ada9-4b7b-9742-7b570a19753f",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "1ecac900-592d-4cec-bdae-b39f0f2bfd5a",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b8e559ec-c535-4886-bdf5-002aad685b26",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "0c8f1902-3f79-408a-8adf-93c50bdeca8c",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "6f7a717c-67fe-4d75-abb9-dec42f91fa2b",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "13d788d9-8e60-4335-ac43-ae78f8960064",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a3f20b17-8f28-4649-a9d9-d36a36622e89",
+      "name": "someone's work 14",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "1dff4c33-bac4-476d-877d-62095b668080",
+      "name": "someone's work 15",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "38d1062e-b668-4afa-908a-82bb664cb258",
+      "name": "someone's work 16",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c1bcef7a-58d1-41af-b8f8-c61e8d94472e",
+      "name": "someone's work 17",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f2e0467f-6a99-4bca-830e-c3f51cf3e172",
+      "name": "someone's work 18",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "6469c132-d2d8-4f01-a4b8-18b635a2e44a",
+      "name": "someone's work 19",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "8f211baf-d20d-4df4-bc5c-b367e131d389",
+      "name": "someone's work 20",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "1acec36e-7512-4f01-8303-f0a88f086618",
+      "name": "someone's work 21",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "33e8eaed-60ae-401d-8f29-6b1d43dc6269",
+      "name": "someone's work 22",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice16": [
+    {
+      "id": "be246df7-7bcb-4cfd-af90-f2571fe34666",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "9e74f476-4898-4eb7-bbfa-0b22a1c91d7d",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "5e737d24-86b2-4294-8dd7-8cbcacf8bc29",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "501146aa-2b72-4a65-8714-923e46876673",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "52802cf9-c04b-4066-93f1-1775511e0a48",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "75bebb66-aa58-43ba-af12-62ebea580547",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "17108a6a-8ddf-419c-a571-14d1d6f27d1e",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "6452f081-6397-4d64-a535-980c6f63b6b8",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "2698044b-b29e-41f6-9f42-5273c22365a1",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a6c9535b-77cc-495a-b0ec-aaca27e2fa4a",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "0b65ab50-a50d-4876-9647-122f4ef11de8",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "6750666f-f65e-409e-aeda-81450fa5a74f",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ff5a67ef-bd68-46ab-a7b6-d71c2eed0b79",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "9bd23f6b-b4cb-40f6-b50e-8e4cf17ce94d",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "25e4f2dd-ec6f-43de-a1bc-f118f417643c",
+      "name": "someone's work 14",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "d3b6722a-dd43-4fea-89d4-8b2b52221fb3",
+      "name": "someone's work 15",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "bec8fecd-96ee-49ad-95bf-a4b8d5367563",
+      "name": "someone's work 16",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "43f59ca7-a321-45c9-bd4b-dcfc0d2fa9ca",
+      "name": "someone's work 17",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "1ab159c6-835b-4e0c-89e4-3311eb97ae80",
+      "name": "someone's work 18",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice17": [
+    {
+      "id": "a2791e2a-f631-43f0-b60b-aca41522e735",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "3bdda72e-aadb-4395-9513-c6dce12cc2dc",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "aaa46042-a98a-46e1-9f0e-f4495508efc0",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "33265967-30c9-4913-a6dc-2d303a74460a",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "3e5b6361-f5de-4f38-875b-28df042395dc",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "58b26262-339c-4834-8992-e7694cbc5457",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c461aea4-76f3-4eb2-ab45-a6e5579f20c9",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "50c83223-d27c-429c-863a-40ff6388f876",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "94f4a163-196b-41e1-8f43-c6cdf69dd34a",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "d431e2a8-e2bc-4d82-be41-e52935c972b8",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f559a1b7-8085-454e-9225-e21e93523d3e",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "db621204-1664-4eae-8c32-190f15f8d9f6",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a2719836-4fe9-4ae0-86b5-b6b56d493255",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "021b5678-a85d-4329-ab61-c67bf7941b36",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c55900e4-7fa3-4343-85e5-2d3c483cfd26",
+      "name": "someone's work 14",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ca118b8b-f357-41ab-8562-3fda47c0262f",
+      "name": "someone's work 15",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "4a968426-339c-43e2-9e54-f12f0f650c59",
+      "name": "someone's work 16",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "2f3d7113-7eb2-473c-977b-4bb2ef335567",
+      "name": "someone's work 17",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b9e74472-2372-498a-9b2c-61fa9699ae17",
+      "name": "someone's work 18",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "dfb12812-04bb-49ac-88cf-c4fc645e315d",
+      "name": "someone's work 19",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "7e5200ef-874f-43e1-880d-77576b9f833c",
+      "name": "someone's work 20",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice18": [
+    {
+      "id": "ec3000fb-d250-4e43-b286-aeadc46bab92",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b3b90c6f-c225-41e1-ba88-1668be9ac7cc",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "54286a8f-c9d1-4a75-b0ce-49b304308558",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "6a32c5e0-8a21-450c-8d68-5d4ef8639235",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "5197945f-1a7e-4b39-afff-d72d9722aa20",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f4f55e5c-66b4-4d08-9aa6-e49b6a7f3e8f",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b991cde7-e3d5-4708-bb79-c2635ea60896",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "e9d7921a-9104-4fa2-9ad3-2b0b8fd1f355",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ab8569f8-e40e-4a2b-86be-ad123d71a796",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "069938ff-61ce-47a5-a5fd-ea5ed392fce5",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f6b3b3b4-2bf9-4de7-af08-4044ebcba09f",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "85744646-7b84-496a-92b9-a267d2069cc8",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "489675dd-7bbd-4f97-ae3b-6c008f4c5625",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "aa6da319-7b69-4934-a8bc-8cd925fcd318",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "684ad632-710c-4059-abbb-996400948ad0",
+      "name": "someone's work 14",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "2216874b-2836-4bb4-8f8e-0e79ef6719e7",
+      "name": "someone's work 15",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "7ee74c73-648d-4cc4-bc1e-49e2afd22a3e",
+      "name": "someone's work 16",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ec8537cd-f804-47fb-a391-7bc96396cff0",
+      "name": "someone's work 17",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "31ae77d9-a3d3-47f2-8a80-bb741676e8e5",
+      "name": "someone's work 18",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "d31c05ba-ffc6-415a-ba9d-9d7380e63179",
+      "name": "someone's work 19",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "cc2b5ad3-e74b-4c14-8c2d-6bd537183a0a",
+      "name": "someone's work 20",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "fb92cf29-e8e1-430e-a6fc-c850909ff9f4",
+      "name": "someone's work 21",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "021bbcda-bb16-4066-9b80-acff4f9faeb5",
+      "name": "someone's work 22",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice19": [
+    {
+      "id": "dc0bed2c-dd84-4dd0-a72b-656a66486863",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "504d1416-3965-4f50-b2ce-d0a340ef8f47",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "8f799075-77bd-436f-91c3-0bda5f2f42d6",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "df00415c-3dac-4c14-bcf6-a41ea585c2ec",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "7bd6f649-a59b-45cc-92bd-8d12e4133d05",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "20a75d7d-e5f0-4fa7-af91-e7b5a08d26e8",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ce8a41ce-1d01-40e6-a846-9ed0fa054709",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice20": [
+    {
+      "id": "294679c5-f7bd-433a-b4a3-215d361cff97",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice21": [
+    {
+      "id": "d8d6cfb2-5ae4-4ba3-8381-6966a4224e8c",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ad944ba0-18ce-486b-87ce-d7d48d5aaa5a",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f4bf7310-eede-4aae-aebb-2f1fbea7762e",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "0d4df45a-5d77-4b15-90f9-b1b7824abb0b",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "20aafecc-ce83-4c63-8d73-5c82c92c8f3d",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "43e6bac0-29d8-44d1-afc8-9ecdf013fc84",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "445c5d2c-a519-464a-8be8-9f3a7a4d28b9",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "47d00d2f-a47f-4bad-905d-09b40ec4df6e",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "225bb44d-5c42-4587-885e-f7e44469e5e9",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ae569e13-cff5-43ce-9dee-5cb9cad18fb2",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "408f4561-d90c-4342-b0ad-a74127cff8e6",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "0892c3b2-be95-4011-a45b-b324c48b30a6",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c242dcec-0d94-4ae2-a699-b24a51741a6a",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "4e1b020c-7e1e-4daf-96a0-32eae495f851",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "39bbc875-91a6-436b-a9ac-4ec9c611baf0",
+      "name": "someone's work 14",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "5cf94ffe-8c0d-470c-b4cc-b9ec109ef2e8",
+      "name": "someone's work 15",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ac6d46c1-d7ad-474e-8479-19b90817e877",
+      "name": "someone's work 16",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "581a0581-37dc-4246-98b6-4e19bd4c202e",
+      "name": "someone's work 17",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "2f788778-ca0f-4e33-b950-0cb882282fb0",
+      "name": "someone's work 18",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "e1c5b334-10b6-457a-9ca5-173d44276e32",
+      "name": "someone's work 19",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice22": [
+    {
+      "id": "aae0449f-3a68-486b-a4ba-14d6f825e690",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "d7389630-741f-495f-9734-573066ca159e",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ffef5f3d-42fc-4346-80a9-c7d567d9d8c2",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "dcb62f98-059e-4f03-b2d0-94d7e47040bf",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "82d07424-6f5a-4bbf-b4ca-e11edd6cf034",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "8f30649e-a2fe-435a-9756-e3f218788b4b",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "5f1a42cf-b439-4622-8343-08ef1dd59cec",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "e40ae26d-deb3-4491-b2fe-bd341296f0a2",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "1da3c8cb-c174-4da2-8175-1369cc01ccfe",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b8822521-9cab-49cd-af7c-9ba2e1b7085b",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "47ac11af-cd51-466b-b14d-b40fdb5d602e",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "2b6c5db1-71fd-45de-acc4-7d4f94df6609",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "5a6f4473-aefc-46e6-ae49-4bab08a658e4",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "10d4afb1-a5cf-4ece-b059-eee64a95be24",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "cc229e34-1d60-438f-843d-60c318e412cf",
+      "name": "someone's work 14",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ecb8da0e-c699-4443-865f-202f3956d941",
+      "name": "someone's work 15",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "0abf3100-9442-4d21-8f97-aa5711e1fac1",
+      "name": "someone's work 16",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "df4255f1-e155-4570-9a63-1a1d5cf5ecaa",
+      "name": "someone's work 17",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "5f90bfe1-1a70-452d-8784-7a5abc9869cb",
+      "name": "someone's work 18",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice23": [
+    {
+      "id": "8c074b8b-2251-40f5-adcb-11183ec68bee",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "92b67a64-3bae-4b22-b2df-69c8c6e4a840",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice24": [],
+  "exercice25": [
+    {
+      "id": "d1db0822-4902-431e-bd60-06734eb2e696",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "be93f569-7ce2-4cc2-889f-4d880e316053",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "fb3b301e-3f43-49d5-b1f4-101c4dafdc1a",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "fead1cec-902f-4cdd-8845-75baa11a3aea",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "31a22491-0191-4546-9948-6fa0309dd9ca",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "4ec62e16-50b5-4f38-807f-41a41d2c2fb4",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "d9cb0d5a-fc1a-40a3-90b5-69c1d603e5e5",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "1332e1a6-7e7f-4cfb-9e40-8dcb0cfc5517",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice26": [
+    {
+      "id": "4cfa94cc-3486-403f-80bc-9301cebf2def",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "034a6de9-516e-4cf3-93af-dc2873bb4ee2",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b725920a-4b30-4d08-be58-4d90bce8da2d",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b37f51ec-6fa5-4a93-84ee-61015c05d3eb",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "de6a233c-39b9-4c89-ab23-0b04eb3b1711",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "8819f1db-2ab7-485c-b254-d45eb7b8afc8",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "7c9127aa-e677-49ab-ab7b-57e02bf381b8",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "516d671b-c1c9-49aa-8eee-45c60ee45b5f",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice27": [
+    {
+      "id": "70c1d8bd-f445-45ae-a21f-ad87bca6577f",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "485d1ff9-ec53-41cd-ad15-0e56661eeac5",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "61687697-5a49-4979-8c3a-88c6b5aab397",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "710047ce-66b3-4b0a-a3b8-6c617c69ca63",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "811ce72f-3c9f-47cb-922b-d0689d98c196",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "bb12617b-381f-425b-ae9d-ace7ed442013",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "65d2b49c-aacc-434c-8a37-5241fe181ac8",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "27e8d863-8183-4d98-9c4a-b89a11fc82f2",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "1ae8e755-ae65-49d7-9aac-3f1d84768255",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "60a66b66-ae9d-460e-8d79-779811983853",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "62de9f61-3b16-4210-b732-971d999d8a90",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "1f387e8b-4a2b-46af-adf0-2312e837065b",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "112d93e5-c089-424a-9b97-109c023667fb",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "54f673cf-2661-4d1c-bed1-c9478091bc9a",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "9c9bb7d6-e393-43fe-bbbd-600f9ea6dc6c",
+      "name": "someone's work 14",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c5075e93-e40a-46b5-8cd7-ea61a881417a",
+      "name": "someone's work 15",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "49c44022-6018-4fea-9db1-c778a7d8225d",
+      "name": "someone's work 16",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "2ea1c61f-a5e9-4123-bf96-f18bb092e275",
+      "name": "someone's work 17",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "d7658c6f-414b-420e-9fd2-4aa77ad95faa",
+      "name": "someone's work 18",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "8de2015a-ff25-474c-bc06-9e367ed240f6",
+      "name": "someone's work 19",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "fe737cd3-d0c4-4e11-ad6d-10b871ae606e",
+      "name": "someone's work 20",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "2d35b3a4-7530-47cd-9b86-f6481bb611b8",
+      "name": "someone's work 21",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "4f3641b9-6a77-46e6-b2b0-8810a1086845",
+      "name": "someone's work 22",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "edac7fc0-6192-4804-ab2b-5bb9bdd92031",
+      "name": "someone's work 23",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "289124df-012e-46b1-92d0-0c28e2347e00",
+      "name": "someone's work 24",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c4f6af7b-6c25-4f2c-94cb-a8de490acb46",
+      "name": "someone's work 25",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "65c913ea-e4b0-4e05-a49d-a119acd681ef",
+      "name": "someone's work 26",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b370519e-546f-49dd-9ae9-b09900bf4245",
+      "name": "someone's work 27",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice28": [
+    {
+      "id": "f4774b3c-13e0-4ca6-aef9-a898b7aaa3b8",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "35e658cd-d970-44a4-8304-4fa03839c891",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f507b93a-5d45-4351-a0e6-79b8c35215ed",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "32a8aba6-d361-4cd3-8be3-111af6becbd8",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "895c7b99-fe81-4af3-926b-bde421526654",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "452ac815-9647-4ffc-9d8d-d69f0cbf1b8e",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f34f1fa0-022e-4ef6-91c9-c365fe492582",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "cc02a2f1-d104-4194-beaa-b6edc208c668",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "55f88364-ffbc-4b65-acb9-d26a2c093173",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ed44a0e8-9b14-440b-a89f-957c2cb907db",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ba0f9866-578c-44a3-8147-f69e82f506d3",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "04a022d8-3259-4fae-a60c-3f1dccfa2cdc",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "57630c18-6d6d-4e11-affb-4c3624efdbb2",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "022bd50b-20bb-4fd9-8e3d-8fde38b2e950",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "8b9b2447-e526-4bb2-b661-b6ae992a46e6",
+      "name": "someone's work 14",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "6d5c9982-29db-4e29-8179-f5e353b534a4",
+      "name": "someone's work 15",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "250f8818-b041-4cb3-b7eb-e29d101c87b1",
+      "name": "someone's work 16",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b03c621e-0f7d-4107-beb2-1e3dc5de6f13",
+      "name": "someone's work 17",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "79e63148-836b-4397-aa1d-634e36a59e5c",
+      "name": "someone's work 18",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "126fe786-aea9-4d5e-a579-d9b7ef958873",
+      "name": "someone's work 19",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "1f341fd6-45d2-407d-97a9-930fdbe71462",
+      "name": "someone's work 20",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ce84697e-1655-4e18-8ba6-3cdf308c3108",
+      "name": "someone's work 21",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a380e516-2525-4498-a5fd-b85b1d3925c7",
+      "name": "someone's work 22",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "02954160-4632-4a6a-9eb3-4f7910490c65",
+      "name": "someone's work 23",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "77e95c36-b29d-433f-bd60-515af3011680",
+      "name": "someone's work 24",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice29": [
+    {
+      "id": "c378ffc2-39a2-44d3-8dbc-8e51f781094a",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "70898d63-db57-4cc8-ad81-d8abc87cd595",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "543adf9c-997c-465e-81c7-22a93c991d67",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "e41fff1a-43ed-4f75-b5d5-010f80dc5f59",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "093c9bdc-a5de-4558-a6d3-79acfbfb0a9c",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "eeabccd6-73cc-49a7-a966-98497fa73caf",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "9d215482-8850-4561-a4e7-e172bde16d70",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "d90b3e4d-a550-4deb-a8ca-5f3d3b4ce84a",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "e8f95bbe-3cf5-4ad5-bb07-60cb72a7a14a",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "43aa9563-a134-48de-b724-2d892ab457e6",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "3820176e-36f9-4d12-8e17-e6190e5d1551",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c97b0770-bb9a-44ec-a2d1-e4489ae243df",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "9b241dc1-61a8-46ca-8f76-96fff6462e89",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "10149812-5967-4745-91af-2ff3caa16983",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "41548103-6235-44e3-8d1b-4c34f9349b9b",
+      "name": "someone's work 14",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "507cb813-18b7-4498-bf4c-1ce241289f9e",
+      "name": "someone's work 15",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "cf2a77f9-e839-4db4-b644-80b35b2eb488",
+      "name": "someone's work 16",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a4870d04-5b96-4270-860d-feba2ebe8879",
+      "name": "someone's work 17",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "01d30905-7dae-4122-8506-462fc2466208",
+      "name": "someone's work 18",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "16a47f78-4e94-480b-a6d5-e24397461daa",
+      "name": "someone's work 19",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "efde7649-4666-4f61-a093-881e35accc7b",
+      "name": "someone's work 20",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "bd5c16db-55f6-4f62-ae90-58a63f5c4388",
+      "name": "someone's work 21",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "69c1a232-2771-4b9e-9c7f-6fcd2d2d4821",
+      "name": "someone's work 22",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "7a0a74b9-212c-4a63-9c5d-bc68398ce9a8",
+      "name": "someone's work 23",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice30": [
+    {
+      "id": "7042e403-aa83-475f-95ab-10b5cfc3c6f0",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "51bdfe5b-cb54-4825-b985-3d6d3f92d451",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c7001104-ca69-4f81-b4e0-db6425c32189",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "1e35fdcb-0c72-432d-ab52-7412bd67929f",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "335d562e-a487-48ec-905e-8e45a55d444c",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "bc50f4dd-1c09-468e-b778-27c99130ed31",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "d9c31c85-1d5c-4b10-ac2c-9cfdc6c0e102",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f2169daa-41ea-43ba-8240-88b178f90bb4",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a9aae05f-a043-4c37-92ca-576284817b89",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "0e8d20ee-c41d-48f8-b835-c685b7e5dc59",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "1802e5f5-38cc-4e4c-b643-ac6cc442b41c",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "6b7a5da9-18cc-45e0-9598-7aba64a47008",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a6221b4a-1584-435e-8322-1cbceb415062",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b7a92223-ef19-40fe-ba72-839daa8e440e",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b26e0464-8601-4be8-aacf-44960eb8bd1a",
+      "name": "someone's work 14",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "15525c64-e7dc-409a-bb79-7dc848ad3820",
+      "name": "someone's work 15",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f6200ea5-987d-4d4c-b8d5-8a9774a16c3a",
+      "name": "someone's work 16",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "03f8e5db-3e5f-47e7-b9c7-ff03129b5673",
+      "name": "someone's work 17",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "37006f19-8668-49b1-8683-32ea1db7abdc",
+      "name": "someone's work 18",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "1e29cda8-0e7f-4410-b5fe-d4f3d9af63c8",
+      "name": "someone's work 19",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "aed17795-fcb8-4648-9d95-bde11dd57a71",
+      "name": "someone's work 20",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "6cbff13e-353c-463c-9f65-4f4408d5ed51",
+      "name": "someone's work 21",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a6ce11d9-6b7b-4d0e-98e2-de451f915f9d",
+      "name": "someone's work 22",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice31": [
+    {
+      "id": "3fa6bb67-47a5-42eb-b9a2-98f3d8172fce",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "92ca1e16-78dc-436d-b504-2506a5c57417",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f3e729ce-364d-4b1c-8f6f-fb783302d14f",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "28070797-5a0c-4cce-990d-88fbf71b6ffe",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "6f09cf5a-74ea-41c8-b6ff-39555e69954a",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "97e8286f-9bd6-4ffe-af25-9abe67db7f5b",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "31e70feb-1bbb-4a4a-8a25-9082a11f5fd8",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "44ea3d47-d881-4ab8-8778-34bce6fe6e33",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f836f663-ede1-443c-ab2b-6ad7cb1484fc",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "bada2bee-d59a-48ae-9083-a4c2be0f75a8",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "af0f1a77-15c3-48e2-814f-f76a405267a5",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "0e62f0a9-245e-4697-bb86-79a3f16ce0e3",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "2a87a9fe-750e-4bc4-b845-ae3c60459ba8",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "e23ffc97-67c8-4e19-9442-b9f3c4924daa",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "be4b6353-0ae2-4478-95db-92b42bbe99f0",
+      "name": "someone's work 14",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "4e893b18-ad81-4eac-96ae-1d491078040f",
+      "name": "someone's work 15",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice32": [
+    {
+      "id": "a963bd01-92dc-4627-9165-d9d506feeb57",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f59b51bb-99ac-4779-9beb-f2d4bbb80747",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "76e40242-3f8c-4444-857f-e7357388c4f1",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "4aaa1a5b-3a44-4d9d-9c2e-9e1fe5f539d0",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b7869b6f-39c9-4db5-86e8-5afff150f702",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "730aa323-60d0-44c0-bc3b-ff2c7e03559e",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice33": [
+    {
+      "id": "f88ec720-2cd0-4e47-97c1-444aba700b2a",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ec8aa1fa-6b22-475b-98a3-0317c5bfc8ee",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "db089f56-8df4-41d3-987a-81b3c1bed3c8",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "071014d7-93c5-48e7-bee5-858515297030",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b33de733-4384-47ab-9f75-2f917f684337",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ed0d67b8-6489-41af-9d13-a2309250b8fd",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "9a086eea-1b65-4b66-af38-04a79bbd4598",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "291b1f6e-1e6e-4609-b51a-a0b8629336b1",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a1705f36-0934-4227-8c55-f61416e1db1d",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "1be27aae-a139-4ecc-aa72-61a482083557",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "eae9eb29-4ea3-4e4e-9684-5b67fd038c64",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "263e174b-1988-4d33-99fe-ea8215851e9e",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b0b10983-2ab8-4e16-9ec4-008e1cb5b8bc",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "70879e62-f9fa-4c61-a6b6-6c0c5bec381b",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ede4dc43-205a-4f65-9f4f-c8c83f82f372",
+      "name": "someone's work 14",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "4d9743a1-dd34-49b8-95ad-a6d355fdedca",
+      "name": "someone's work 15",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "2f65873e-29b6-4c2a-93a6-90e8e7abbf28",
+      "name": "someone's work 16",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "5e6bd8e5-cbaf-4c54-8fd7-f17760363f46",
+      "name": "someone's work 17",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "345c6c06-9c76-4118-a917-9117a3a69377",
+      "name": "someone's work 18",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "14c5707a-e396-42ac-bcdd-bec9ef3160b9",
+      "name": "someone's work 19",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "d85afc43-2f0b-4619-97d6-c442e17db432",
+      "name": "someone's work 20",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "2a3f2a8d-1091-4f77-b207-c7e85476573c",
+      "name": "someone's work 21",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "1f631ab8-40c7-43c9-85ba-72e2fe47be01",
+      "name": "someone's work 22",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "9475354f-742f-420e-ac87-f75db7f6c30e",
+      "name": "someone's work 23",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "0379624b-2d36-4634-889d-9cfd32f72a31",
+      "name": "someone's work 24",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f7f13128-dc40-4e8e-ad62-c0687349006a",
+      "name": "someone's work 25",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice34": [
+    {
+      "id": "5a48e9e6-2854-41ba-b7df-9297b6655657",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ce7ef13c-7669-43e2-b228-6d6c4e3e302d",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "7dc83484-46cf-446b-ba59-2e6472b7388c",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice35": [
+    {
+      "id": "ae5d0dc6-35c5-4bf0-abe5-85d8379dd2fa",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a5ed3dab-4493-4721-935f-156aaf8c7a9d",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "48ee5b2b-b682-4115-8448-7a254efec483",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "dda2845a-d645-4b86-a878-4ac06a70f5b6",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "5ab75368-764e-4e0c-88bb-9337c0d8768d",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "329a03a5-a49c-4388-b6eb-7f4d6578c5e6",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "40281b2c-62c7-4cbe-8f04-482c4eb5e416",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "3bb264f1-7d87-4451-b8d4-40ba349a6569",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "61a0e5f0-29a0-4279-b99f-68fde7289b80",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "65681fbe-6ee1-46cb-acda-eea8961b7882",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "31b626f1-794d-489f-9ac2-8cf658e68bdd",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "e90eeafe-1913-4d4d-bdc3-bf033b60ae3d",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f035b5df-ab63-4526-9b85-23e9c8de36b9",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "e9c7acde-3d4b-4c7b-9977-c891a99051ce",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "5e02148f-c97f-4ec4-9364-a8d905e6dd3c",
+      "name": "someone's work 14",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "d55670e5-84b1-467c-b47d-f58add31c680",
+      "name": "someone's work 15",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "78aebb74-1cd0-47f1-b495-80677336f974",
+      "name": "someone's work 16",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice36": [
+    {
+      "id": "4a49995d-0504-4c92-8a89-b3afe866f693",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "3909614c-3a9b-4085-9635-446d7e0e529d",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "8664be5d-3226-4066-961e-7f3357c3949b",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "7fdc0a42-ba1c-4174-a23f-29a07c4f545f",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "335f4758-165f-482e-859e-bde7dea6773a",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "78fdeff2-c731-488b-8617-2ce1cd4a9d8a",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "5cda921d-0881-4450-9870-a5ec14b716b9",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "61a37b27-ac0e-4b36-a678-2b7e6f8d5c2e",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "94a54c0f-d337-470f-bc54-cc95b0979365",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "e0904af6-3b5c-4eb2-a808-030852c65f7e",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "e338c90a-7fe3-444a-bac4-cb03f4e6cf1d",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice37": [
+    {
+      "id": "2367ed0f-2170-4312-aae9-a555f2904332",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "dcc1e60c-81cc-410f-aff5-eca6aa1dfd34",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ee3fd544-c78e-4d2c-81d0-ca1bcb46e750",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ee6505ee-e88f-4d3c-a060-8d9950e4cc29",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b8530acf-0e39-45e4-a66c-8912782c0880",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "adc218c9-8426-49c3-97ce-60af049e0ee8",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "263a06f7-630b-4f99-8f41-8f95b4fa9a5e",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "3a330bba-15fa-42de-85ef-ec2f94b256a4",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "da5ddff6-2c29-4784-9e55-6aa23fc50d35",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b616a389-76d8-44d4-9150-4a7263d870d0",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "8cd26918-d31c-4803-b326-b48e765f1426",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a7469320-e38d-4877-8c02-ef211e316424",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "441a4978-df6f-42d1-bdca-e31824cacbed",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "70a862cf-e908-4105-b214-2d352be16af2",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "044be47c-1aa3-4fa6-b9dd-c437029a1252",
+      "name": "someone's work 14",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "8846726a-38b1-46ca-9402-309bf538032f",
+      "name": "someone's work 15",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "d78e232b-7bec-4949-9f11-b02ca1006f8d",
+      "name": "someone's work 16",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "0ad706ad-db45-4f55-9d11-33ba83c6ee59",
+      "name": "someone's work 17",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "fc25386a-11cb-4fe5-8033-db052cd616aa",
+      "name": "someone's work 18",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice38": [
+    {
+      "id": "6151d5fe-6b97-4e0d-bcb8-4677f97d97c9",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "5fa4953d-4e2b-4bbf-a6eb-91ce53d190b1",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "57fb8415-826f-4ee0-be03-0a881ff2bc4a",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "9ddc7095-abb9-42c9-a3ce-dc349cdf9a41",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ad4e5135-4d0f-4d21-a428-8df48f11fc81",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c38e20b1-c222-4db6-8194-61f7c0639306",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "5f268b22-86ef-4f7c-9e17-ba73f7cc4269",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice39": [
+    {
+      "id": "561f160b-c221-4c52-b87d-5aea70f6da65",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "28937a0c-80de-4337-93b1-fba34d819f24",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice40": [],
+  "exercice41": [
+    {
+      "id": "453f0b25-ca79-4649-b700-9647f7685a82",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "3d294651-0af6-441b-a80c-0fdf17070fe1",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "444c7581-5299-4c73-8484-b6806fdea31c",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "71b1db87-c1d3-4a67-92ff-cdcab4746ff2",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f22fa1d6-5029-47ef-860e-3c72eaebf2c3",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "142143aa-c30f-4d59-befb-fd08af8de5e8",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a89c2391-e3d8-448f-9e0e-2c7f2829a919",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "42573815-bab9-4cf3-955e-2b5576d0107c",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "5fb7df04-98eb-4061-ac53-005f89a21576",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "2c0f3890-2058-4f14-89b4-91d45eca6225",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "19c4cbea-18ae-4853-bc2a-37beaf5d2bbf",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "36aa7cc9-3941-4fa1-b0f0-b6237c589640",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "5ea6a48e-bfd8-4cac-b482-8dfa7145102d",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a361ae21-6999-4434-b7f5-b8d6805fce05",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "1ced2e88-b6ad-4fbc-9aec-40f056617e64",
+      "name": "someone's work 14",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "559264dc-eb67-41ce-ab20-c8ce07656acb",
+      "name": "someone's work 15",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "e31e2660-e35c-427b-ba03-6aade57eab85",
+      "name": "someone's work 16",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "3daf71b4-791f-4cc1-9e8b-87c9ec80e6cf",
+      "name": "someone's work 17",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "7815ab38-12cd-41b0-a79e-2aaf2ac334f8",
+      "name": "someone's work 18",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "7012f99e-0e22-40a3-b187-453f3e5ae214",
+      "name": "someone's work 19",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b9e7a622-d08b-47ea-8526-6b5f93829217",
+      "name": "someone's work 20",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice42": [
+    {
+      "id": "7693e20d-43e7-481c-b157-82135e1751e2",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b734e318-252e-48a9-a591-91514d6b6f5c",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b06dda1c-fcdd-4633-9117-60e8ef54db6b",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a6bce076-583c-4ff6-915a-54d55999d6fc",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "107930d9-926e-4858-9c12-347145163266",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice43": [
+    {
+      "id": "ef9ece30-0250-44f0-967c-3318f5fde680",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "903a5c5c-24d9-479e-a833-ef6e85b7541a",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b6cf2dde-6c67-4904-b8c8-d7553583f002",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "812e4f6a-0ed2-4c05-91d3-0a0e6d50e474",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "4f6f22d7-4178-458a-98d1-b54786da808d",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "73754166-df0e-4a7f-8dd0-5b93c9c311e3",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c9c9492e-9509-4006-95ca-62fdcb56b239",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "4c2a4c36-a11a-401d-b2ff-ca09009617dc",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "d3f21206-0017-447f-ad41-7d4c91b6afe1",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "7b5d1cc3-95d2-4026-828f-428c5dcd7682",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "67366a13-9730-4488-b42b-3e499fa85eca",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "3f069431-7bfc-4e5d-b21d-94029aceced1",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "12a53d5b-a3d0-4930-972a-d10c0d306e35",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "965bb66b-e14e-4514-99f2-df82b083115c",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c58d506c-eaff-42ad-8f73-f3b40b5f0f04",
+      "name": "someone's work 14",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "43e6618c-e39c-4c37-b992-7af0093df55d",
+      "name": "someone's work 15",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "1e40c777-57c6-40db-b9d7-cd029fda4c67",
+      "name": "someone's work 16",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "93d3ef9f-d55d-434b-aeee-c9fe6f263d62",
+      "name": "someone's work 17",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "af6dcc5c-c096-4d87-9b83-647d444eb944",
+      "name": "someone's work 18",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c7b185a5-a0ee-4242-9753-88809776eb4b",
+      "name": "someone's work 19",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "6751a6c2-68e6-4fd9-b3ee-c8956fcb72de",
+      "name": "someone's work 20",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "9f4befb4-6151-4df0-9786-c20588e6bad5",
+      "name": "someone's work 21",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c1a4ad28-d1b1-4795-866c-2c17cf18f334",
+      "name": "someone's work 22",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "4ac62fe3-27ea-468f-9f11-2b3567fe1a7f",
+      "name": "someone's work 23",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice44": [
+    {
+      "id": "a0a64a27-7729-4f70-955e-0ce8dabbda4a",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "3667c3d2-c9b3-4e8b-95c9-fb9f0b5884ab",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "db2e53ec-a908-46d5-b49c-28bc2c828685",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "da2cb6b7-4670-4a31-a075-a017576ef8a2",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "9453692a-5661-4940-aac9-9e3b8fb551a0",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "3a6f4db9-1bfd-4bc7-8752-de13e92c50fc",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a05afbed-df0d-49f5-a972-011bb9c33fe7",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c4dc793f-1e65-4646-81dc-0b46c7e67efd",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "2ebd98c5-cb65-4fa8-b0d8-dbc2930e6e49",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "4c53d76e-27f7-433e-aad2-052abfb01882",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "7b387e19-3ab3-4e8f-b1b8-60d18e408dcf",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice45": [
+    {
+      "id": "6c36b8af-94b4-4162-af5f-ac83d374493b",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "2ae1efbc-13cc-4b3e-9739-90a431f8c70e",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ac37c391-e482-478a-ade1-f6b0efcd43be",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice46": [
+    {
+      "id": "5d01d4c4-4d93-47c6-a38c-7df7d4593f9e",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "527cd5aa-9997-4ed0-a8c7-972f4924b946",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "59b04f96-fee7-42f7-b773-13aa7bc74e42",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "6ee63010-e596-497f-be72-bdc0d865c491",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "91ca830e-621c-4b82-943b-bafd5a421f3f",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "04764841-f2af-497e-941a-52b71dd385d2",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f8012da9-53a6-4ecc-a143-5dc2dceb04de",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "db9c8dcb-ba7c-481c-a31c-e99057e908f8",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "cd614b8a-fbfa-4779-9660-01366c53a1ee",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "3338d8c1-fe93-456c-883f-163c15ce3660",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "4a351934-4efb-4e49-8340-b7abb369039d",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "dc6e36ca-d8f0-4212-a6ed-1b359d583d7f",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c2eb2dd9-8104-45da-a26b-34be748c70af",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "114a0f52-9964-424b-ae3b-8129dc928240",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice47": [
+    {
+      "id": "978e0af4-2174-4350-8e44-62886510135d",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c9e8d42f-60da-420d-bb55-a6d001e3fd75",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice48": [
+    {
+      "id": "d08c7fe7-9003-42d2-908d-f74df5eaf600",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b6d90d0d-5c60-49ba-a61e-cd597752212e",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "462f5b43-3854-4aa5-bae2-dade0d4ec965",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a2a1f9bf-9819-4abb-b07b-1181c43b3cc5",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "4d9ae00b-d732-4efc-839a-c6ec7f971366",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice49": [
+    {
+      "id": "45dfbde0-09b6-4a51-bfc9-efe01aa44b70",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "09c4ee69-1757-4298-86ff-77af3dd66286",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "7220b8c7-994e-4133-a7cb-f885490a597d",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "566a2e89-685b-4049-bd97-3c68516a1659",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "4fffdb84-f2f6-467e-8757-3d4db04eb4a0",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "0907374e-44ca-488c-bdb1-0aa306fbbef4",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "fc18f24a-cbba-4f39-afb0-83d6e0d1c18f",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "8a6c6ff3-c04b-4bed-8696-4f209cd2ebb9",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b98ad4f1-9b83-40da-ae51-beafb251bc01",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "4fe79fa0-ed02-4bff-8db3-c5261102d8fc",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "8771edb4-cdbb-46ed-a89f-ec8a788b3b19",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "efb579b9-1c57-48c2-942b-f8492767830b",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "e3607b22-27b5-4506-90a5-2c54aba3764d",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice50": [
+    {
+      "id": "3bcce462-5f06-4a0b-bd34-5c41432cec34",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "9d86931a-4ef5-4e30-a15a-c520f5323f94",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "347c15e0-b6b8-40cd-995e-48c70667c811",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a70dc50b-0c92-4a12-bad7-2fae2d1d60a1",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ca7f8426-29ea-49d9-8ea6-d2c13e54ca34",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "0c35c55d-a278-4799-b5a6-13fb68c00b24",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "34945b52-55bd-4a36-a050-1994962c68e5",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ea50facb-5865-428b-acfa-36ed99c4b205",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a40d9c10-12ef-4020-a658-6b6701096b29",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "79a8883f-9d99-4dbc-9a97-1284cd1bfd61",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "e6cdaa9c-8585-4d7f-b5e6-4fe6fe2dbd8f",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice51": [
+    {
+      "id": "5b2fcc16-e676-47ca-802a-e4dffff6018a",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "8fc7a33f-fd32-4c02-9af3-d746f6b6c4de",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "9e9d4d43-ce19-4988-baf9-edcf9bc0ac6c",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "7c617b2a-a7ea-47c6-aa67-d553bd57bcd8",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "9294af0f-ebbd-4cf7-a38f-2fa05a8fe7a1",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice52": [
+    {
+      "id": "985d9673-b535-4555-ba85-65bbeb98e9c6",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f73210fd-4de9-4175-a10d-e4855f6054e2",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "d4009f0c-bff6-44d8-b217-105a0fcf9161",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c4f39e84-e3c2-4d28-8cd2-53a925aa0f82",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a73a759b-b567-485a-9fe4-3fd351860d55",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b26ec51f-98ea-4cc6-9215-bf3bb4310492",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "805de1ba-b2f4-486f-8486-3f7c60a50ce6",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "18487c58-acee-4625-b5c8-550aa2e46c23",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "5408a6e4-bff9-4853-861c-ac866774eb9f",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "49348746-b1a8-4a38-a7f3-2ebaf27b024f",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice53": [
+    {
+      "id": "f3af9d52-3f20-4916-9ab8-492ab6835988",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "8612e7ff-e44b-4ba8-940e-3c027e579caf",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "d1c55fdb-ac70-42b7-9f84-27132c6c0f97",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "842594d1-a807-427d-86d9-fa417c2945ae",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "5fedddf4-7c12-4247-9272-a1e8de940429",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "8173f31a-ce04-4365-a3c2-104c8b8cf017",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "eceac24b-7a29-41cb-bc96-cc0af1adbfb4",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "86ee6a4f-3ae6-4ac6-8d98-1c33a4ff878a",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "1123cf34-4d77-4764-8d71-3f761f551d8b",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "fc713a6c-092b-47ca-882b-abe6ba07be2a",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "fb8e822d-cbc2-4f39-aa8b-ab359ae6900a",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "3511f087-1d87-41b3-9f68-9b386d1e336a",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b44f306e-c0b1-44de-a4a7-34a75d1cb4e7",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "12438f38-3e55-478c-bb2b-7d1be85a5df6",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a9c1daab-de62-4b82-bb98-bd889d25797a",
+      "name": "someone's work 14",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "1c7f2b30-7cc9-4f19-aaeb-7c90be709f23",
+      "name": "someone's work 15",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "3e09fe8a-7916-4d7f-98b6-b0f4e9265931",
+      "name": "someone's work 16",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c68b1ef7-eeaf-49ba-a9ad-2a8448f83435",
+      "name": "someone's work 17",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a1313b5f-1a83-4604-8172-f0fecf4ac0dd",
+      "name": "someone's work 18",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "794b5e83-5517-4c71-917f-af9197718751",
+      "name": "someone's work 19",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "803450f9-15cb-4d67-84b0-f7c8b4405dfa",
+      "name": "someone's work 20",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "628572ee-e5cc-463a-9eda-3a9ce937d10d",
+      "name": "someone's work 21",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "69bd4a0c-959b-4c05-81a1-60922b70090e",
+      "name": "someone's work 22",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "d6a81f35-677a-4e7e-bf94-83e1386d2b8d",
+      "name": "someone's work 23",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "0270b8b0-f585-42cd-ad4d-a00996173414",
+      "name": "someone's work 24",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "68047093-e67a-4fa6-a350-dbe024db8952",
+      "name": "someone's work 25",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "d9e4283e-d333-4570-a22e-16ed72bd3994",
+      "name": "someone's work 26",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "67811b0c-b559-46af-b638-63b6a45957ea",
+      "name": "someone's work 27",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice54": [
+    {
+      "id": "22f8aeca-8bab-4fe1-aee8-cb00e4de30e2",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c0dd82bc-7b26-4488-99e9-708f42ba0a29",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "55afca76-6e55-4019-ad04-9fae322a60ae",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f1c8ea35-4153-442e-b485-9a5cba816ead",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "d7f10c6e-8eec-4186-8019-a6189fd31f30",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "7dace24e-82eb-4abb-a403-0ee2d0f6d5b5",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "78a44dc9-96bf-4e0a-afdd-ad60bfa42f99",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "cbb0d905-d1d5-400a-b886-a50a144cd2f1",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice55": [
+    {
+      "id": "4952ec35-5c52-4ac4-a006-77b5c3b34ca6",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b6a02568-8e7e-4877-b538-0cf06f3d14b5",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b1607eaf-6b1d-4435-a362-2756ef9072c6",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "eab1a7cc-c65d-4895-a3e9-42959f30892c",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "aab3ace8-ff75-4b93-8ba6-8dfb6836c958",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b1e0a971-3bbc-4de0-886f-5710f838e6d5",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "cf11b088-5ee3-4d3b-82c4-d68e270a4f4f",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "bcad47fc-969f-4fdb-a4cc-eaa3ccd4a453",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "e9bf804c-00d2-43a7-bbdf-b8866934d9c8",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "3952a7ba-7f68-475c-8684-b2ce1d163b9e",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "117b3658-c0e3-40c4-80e8-0ecbc47f341a",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "e261cbcf-b391-43b6-b7f6-48a887b4258b",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "4debc00d-a628-4cb7-8c51-b76df84d9998",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "d5b53516-940c-4f11-9ba5-12b4b6db5d5c",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "4d9d20ee-af4a-436f-98be-f7769ad3bae6",
+      "name": "someone's work 14",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "8d79b50a-81e6-4cae-b9f7-eede606cde1c",
+      "name": "someone's work 15",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice56": [
+    {
+      "id": "f569f50d-ace1-4097-a976-1f685305c0dc",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ae26e479-d6b7-45f2-a82e-3366ddce5f21",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice57": [
+    {
+      "id": "03495a55-814d-4628-b3c6-13176891d33e",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice58": [
+    {
+      "id": "9599a7d8-7783-4103-a4a8-b4f3b5ec94d4",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b827a6cd-ebbe-4d62-9a38-54e4e4f374a2",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c4743e2e-b1ab-4733-9e71-102bf2e048c0",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "91fb6513-a022-4cb5-b522-ac95e5ad208e",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "cc413d63-c238-4c03-af62-3a8086e97b49",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f32221ca-abe5-4ee3-90b0-03d8e21da2ee",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "e9e4a690-ef22-4038-98e4-046d65b9eb2d",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "aeb26329-9ccd-4531-b1d6-4a637226b713",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "64d3ed8f-08c0-4fa5-ae0f-9f41ae19310b",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "994811bf-f47c-463c-b60f-48088133cc01",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "fa974ee2-4970-4764-b4d4-6d1a09221907",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice59": [
+    {
+      "id": "4174c619-46cf-433c-8508-1cdf4aa0f346",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "66ba3e6c-9a93-422d-adac-a6b6cc65fb77",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c7188423-4ac2-4e4f-a75c-c8450ea68f86",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "e39482e3-e853-442d-a703-f4077f7676c3",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice60": [
+    {
+      "id": "b556693d-c67f-42cf-9e4c-9be9acce146a",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f09e4f00-996c-4689-959b-e809cc2fb0a0",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "2adac6dc-2407-4c28-8411-a6a6c8038d66",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "945825f4-82b6-4e24-8cd7-f8310803eac5",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "32658e7a-1cfd-4613-8ba8-b375fa500b89",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice61": [
+    {
+      "id": "e3d1139e-07ce-4788-baa3-9564c7a534d3",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "77b84666-111f-48bc-bf56-2e22b97a5a66",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "eed18e88-d4c4-40d4-ba8e-b9b866edf5e9",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "640e45ae-e56e-4807-8c20-eceb71856e25",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "193877d9-2151-41ad-8ff5-9ad071158067",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "afb5bb5e-7168-4f63-9838-76bd5b148b1e",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "485d039b-ff29-4844-9dd1-c7a65241c964",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "17d5c438-4ea6-4aec-ac49-069e4aed8c1d",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "7b784b55-c1b8-4caf-82a4-0c0db2bc90a2",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "768dfedf-3351-4cd6-b3bf-ec6648d93dd7",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "191624ae-cdd7-46d2-a33d-c2af8b3f2efc",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b2c3a5e3-3818-46b0-8dd0-3c5da85c590e",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "2a570c73-6b7a-412c-a1b9-7ee876005b7a",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "4a27ffcf-66e9-4d9b-a9c8-eba372affe91",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "114569e7-c6b9-4959-8821-dff5c0aff9cf",
+      "name": "someone's work 14",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c9bc6849-6ec4-4a66-8054-f85fa409de5f",
+      "name": "someone's work 15",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "9c049e6d-a679-4c0e-841c-bc82ba839d66",
+      "name": "someone's work 16",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "96419ff3-adb1-4433-8bf3-02ff2a9a00b2",
+      "name": "someone's work 17",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "e88dcfb3-4785-4983-809a-f0902ebf2d38",
+      "name": "someone's work 18",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "9258415f-7875-445e-bf72-6e8453c39709",
+      "name": "someone's work 19",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b94b728c-b49a-4427-aaa8-79ca053814da",
+      "name": "someone's work 20",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "0711d101-ef07-4b03-bef5-b177ad148b74",
+      "name": "someone's work 21",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "65151c13-fe31-48d7-8163-441b7e0ef060",
+      "name": "someone's work 22",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "6b9b1f3a-e0f7-41d4-8f01-04c6520a9289",
+      "name": "someone's work 23",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ff2ac4df-1e8b-45e2-b45a-a198a2c6be4e",
+      "name": "someone's work 24",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "997f8b00-fa01-4f55-b53d-0a0441adc40a",
+      "name": "someone's work 25",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice62": [
+    {
+      "id": "c9469231-f910-4c8a-a3f8-6f7369cb8f96",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "7b1af8e2-0e20-4b2d-9570-8a60c884ed9f",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "2fb54145-899e-4ab4-8bef-ca50a18eae25",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "da2cbc62-1199-44a0-a57b-690943887b26",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "5aef915c-6d51-4e4b-b844-7022447fe694",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b1614a3f-c898-4a8a-bbb4-d457f955b1fa",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "1f637619-89df-4066-9f74-66d7064ed82f",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice63": [
+    {
+      "id": "794f1b3f-7191-4a7f-8119-ba12271a3b16",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "21e4dced-166f-4ba9-b30c-81793cd0b696",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "6bb4d842-4090-4e04-83b1-4638d1bd954f",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "0ba3598f-658d-4877-bc21-b5b88a76afe5",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "07bf647a-54ac-478a-9762-bc21dc0af3b4",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c8b15efa-b651-43c1-b105-a3552957766f",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "d58d44f4-3b73-4ed9-aa96-cf5389f0225f",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "bf8a8951-dd27-4951-a27d-f92f12bcc261",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c956e829-5f66-4077-bbe4-cb22de02ad34",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ce2dde8e-08e0-4150-ac5c-3a305461293a",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "54c3df22-1e00-43a0-ab76-48cbd60f40e7",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "5a1f2670-c5a2-479c-9e38-40fe5932a9ad",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "4bf64e0f-e61d-4558-a999-8dbd093f38c0",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "53c5e1b9-e0e3-4a97-a818-ba8c20ffebbc",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "6c3afe97-0d8e-4a32-81e8-5cdff3bd87d0",
+      "name": "someone's work 14",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "eba90c8c-c2cb-4ae5-93be-1899e6808ae3",
+      "name": "someone's work 15",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "11a034f1-feeb-409e-922d-326384fbc597",
+      "name": "someone's work 16",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "d51d17fa-86be-4aa7-bc9e-c363c55c9065",
+      "name": "someone's work 17",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice64": [
+    {
+      "id": "a36795c6-298a-48c3-b6e0-4296568cb711",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "64a3d9c9-dcc0-47e2-82e9-51dac3ef9aad",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "69cc3f7b-baad-470e-b537-f3bd6cdfc391",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "dcc02311-3fef-46de-92a8-682b4411da6c",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "4629eab7-5913-4b17-8bbc-a0d063c088c5",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ba1b1c6d-f8fe-45fc-8b3d-75d5248ee1c0",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a3f5c485-7176-4ea0-b0ac-9fadab438438",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a325bc9c-cb4e-4a00-a82a-0eda1c27d9f8",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "9ae92082-04a2-4ae4-8ab9-483ea63abd8e",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "190ef459-4703-44d5-85cc-5620ee9c1dca",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "51359821-035f-47a6-b294-19db3bee3e24",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a0affa59-6584-4532-bdcb-b6d910527ff6",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "932ddbd0-537c-4e04-86eb-9ab1d41dbb42",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "bc251654-a0c7-426e-aa29-b469b606809a",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "3a5b2838-fe1a-4e96-bed1-570dacbc79c9",
+      "name": "someone's work 14",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice65": [
+    {
+      "id": "db47ddcc-8894-44bf-931c-e7cbfec3e1e3",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ccc5428e-58b1-4ecf-b4e8-91627c255359",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "5f4cd14f-8cec-4f6f-8cd5-f24de465367c",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a31b1466-f0a1-4343-9912-13af35b2dc6c",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a19de5fc-dbec-4f48-abe3-aa38c566c12a",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "33daeb2d-1dbc-4222-a2ef-ee7295f65af8",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "1a282e6c-f76f-4e25-bc5d-64c661c851bc",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b2c2a792-412b-4d1a-8818-a117ed4b9ec9",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "3e5e7a06-4467-4b9d-b1e5-a3c742a73d72",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "6782f144-6ca3-4e22-91ad-6a46b3d7b144",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice66": [
+    {
+      "id": "f83dfca9-8af8-473f-86f2-4742239e5b3e",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a2acfda2-efb5-40b5-bc73-f3b33fd1cf27",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "d3a4d668-3472-4978-8ffc-9696642eb668",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice67": [
+    {
+      "id": "abb76455-ef97-4700-a53e-e7fe8936c8b6",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "8a43d522-8698-4cf9-9ef6-c38c9132f832",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "64c1661c-66b6-498d-aa4e-14a86b16f425",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "31276b24-40f1-43d9-a7db-bd562881c6b2",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "9c0906c6-561d-40e3-aa58-df9d896d5972",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice68": [
+    {
+      "id": "e254bd2d-eee3-426f-bbfa-e5456f26551f",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a821674e-cc80-4fe1-a58c-b3068230290d",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "83c3163b-d37e-4cc9-ba30-c36e629ce777",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ce10f67f-eb32-49a9-9703-ddf2e19dbccc",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "e62b7fae-e0b4-4bdb-add2-f40df9a0a75d",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "6cdf1f97-c089-48ae-a633-055960fc5b7c",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "07b1a74a-59bf-432c-8c0c-1c315ff65578",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "07701cf8-3c4d-4cc6-ad9a-1d0f77e4fbf4",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "68706bd0-4e3c-4a9c-8ef6-fb23dba10c8f",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a54ad091-68c7-4331-84f0-81d6d40b37b9",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "3d6851c8-2020-4f6a-bc24-613549d7aec1",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "4af9c947-42f7-4e6c-9647-ddef0b9cb60a",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "3ae53698-93f5-46b6-8860-3e4e6f14b089",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "88b3d869-5ccc-488c-96f7-bdcaf38bf6fb",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "91479d0f-b647-4b7e-9490-c12f61939e27",
+      "name": "someone's work 14",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "5eab8bc5-3232-42d2-b176-470bcc316191",
+      "name": "someone's work 15",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ee5753b4-ab53-4513-9557-a6cecb4ed875",
+      "name": "someone's work 16",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "cef752c3-afa2-44f2-97c7-e61dac4e4de3",
+      "name": "someone's work 17",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c35d88f5-d9d0-4ea8-b6f1-000b373587e7",
+      "name": "someone's work 18",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "4dba6125-0fc4-4b1a-a32e-3f91b2ff3531",
+      "name": "someone's work 19",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ba14d8a1-2663-40d8-ba1b-f5b1bbc12361",
+      "name": "someone's work 20",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ee558faf-c6b1-4816-9596-30072c7c57be",
+      "name": "someone's work 21",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "190a6830-f68d-47a6-9b15-974d13e1f898",
+      "name": "someone's work 22",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "07bff0a5-1cf4-4480-bdf5-c44f44f4e8c0",
+      "name": "someone's work 23",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "fc6d2363-eb89-48f7-8bfa-3bc18886ae80",
+      "name": "someone's work 24",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f4612e12-4656-442c-a0ee-092518cff0de",
+      "name": "someone's work 25",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "469daf59-c490-4347-9a3b-718059ff31e8",
+      "name": "someone's work 26",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice69": [
+    {
+      "id": "48442feb-4063-411b-aaef-4f132c88ca05",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "bf391309-4568-4ca5-be41-5c7e1aa8147e",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "722c7aad-cccc-41e9-b5c5-6d76a5b92c76",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "28eda4b6-4b43-4bcc-ae0f-22a40613f4a0",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "bf9510e0-09d6-468b-98f7-045b38c6a371",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "52ca2e23-3115-45c6-b0bf-3181b168100e",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "e168b656-54aa-48df-bab5-bb3dde39ee26",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "0ee60675-74f5-46c7-b08b-4699369d529b",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "7bb90161-74f6-4027-917d-fd68a1c9524a",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ca0c2cf5-28fb-4650-ab4e-80f090fb9a00",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "14ce639b-275b-425e-8e86-53bd0e1526ac",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "6381b80b-a122-4c2e-b4f6-b4d583c0f43a",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "53e268fd-3c29-4284-a7f9-8d200b28e414",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "753da3df-a011-4d02-ab8b-faf575a09d47",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "4b8de83e-065c-49b4-ac75-a5e209372703",
+      "name": "someone's work 14",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "047af72b-3453-4ea8-86e1-689df3d251c1",
+      "name": "someone's work 15",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "d23f982b-4a80-43b2-b6db-90dcbabb2e48",
+      "name": "someone's work 16",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "e7368e09-2595-4800-9e9c-f5c4686a24cd",
+      "name": "someone's work 17",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "50fefc62-c351-4717-8de1-21f46dc55a3b",
+      "name": "someone's work 18",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "17045338-3e47-43f7-9502-6975629121cc",
+      "name": "someone's work 19",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c291a9ce-7571-4726-bf30-0253dfdf72d7",
+      "name": "someone's work 20",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "e976e0a7-92ca-45f7-bbb2-84f58270deb2",
+      "name": "someone's work 21",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "cdf51ed0-fef9-4685-be65-48800af60941",
+      "name": "someone's work 22",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice70": [
+    {
+      "id": "2f1d64c7-7f3d-4f27-9c91-da326d98be16",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "4b841b8c-cb8d-4b34-9a66-27c6b8f91d69",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "355c54a0-11cc-46c7-9f49-86aa7055c0e0",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "deb82de7-0cb6-4180-aff5-a3ac817c1030",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "215e2107-77ff-42a8-8df3-b802631ab06d",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "3fa01fa8-a1f1-4208-8ec6-0611cd4130d7",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "5f5d0d6c-af06-4216-a6f0-bfd2b15c20e8",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "1727db7c-ce4a-42d3-9e06-e5aea95c5b3a",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "0f20ff03-cfa3-4106-bda3-8a631d73f2eb",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b6499a29-7784-4df9-bcec-c25ab88f55af",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "04896c41-f3b6-45a6-aba5-dabf06bab2cc",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "eea60657-b529-4670-a7a2-4131e2bb7159",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c58d9dc0-22e1-4c2f-ba2f-2deed9a39531",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b2e63782-6375-4f4c-b3df-50f850055b3a",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "7d41c08d-d426-4a63-83aa-b6b617ca7b6e",
+      "name": "someone's work 14",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "950c53ad-fd38-4fe7-95ec-f81c0cf607dc",
+      "name": "someone's work 15",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "662409c9-07fd-4259-aaf3-11bf9343499c",
+      "name": "someone's work 16",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "6dc018c1-321e-4320-9c7d-7eb44d616b8f",
+      "name": "someone's work 17",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "bd0353f4-db2a-4815-a64f-104e3ceb5afa",
+      "name": "someone's work 18",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c3fabeeb-64a9-4ab6-aa7d-7f1f4ef87d10",
+      "name": "someone's work 19",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "59574106-2bb6-4d4b-8bd9-ec5ec07b75ef",
+      "name": "someone's work 20",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice71": [
+    {
+      "id": "b06893c8-2db1-4c60-bd7c-97d2b30d68d1",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "da626080-fbe9-4f18-88f0-0a1053aecf3f",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "cfcc0997-4c12-4689-b620-a14e33f1e567",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "81647772-7d1f-4e01-9a4c-0a03525b674d",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "5c216bdc-3a46-425f-b020-9359ce01c2cc",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c6909504-3fd1-421d-b79f-4cfb57c04aa8",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "3ed8105e-47b0-4d75-8d4d-f1dba7abd4c8",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f581752f-6343-4767-beba-0de124684b0c",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "d110478a-a534-4e0e-8f22-85b0660d74eb",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "1848fa6f-1b9b-42a9-b7d9-efdac45511a5",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a24bb833-3bf0-487d-b054-7eff17a76508",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b91b7769-c228-4f94-a8ba-81ec90789092",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice72": [
+    {
+      "id": "b298e361-6e3f-4800-9596-f51dfb28f1a6",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "3bbcbee7-6c4b-444f-853c-dc53f882d994",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice73": [
+    {
+      "id": "bba84b34-a0ed-4fc7-b2b9-3ba401335d92",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice74": [
+    {
+      "id": "8e503385-7110-4df6-95aa-4515d6e7a12d",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "1fb6aacc-38c8-4805-ae89-10b1b961bcbf",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "0e3e39ed-b5ec-457e-b564-f1f48d74596b",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "2db116f1-0c02-4c03-8103-6afd72c6a6ea",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c937931a-9de4-4b36-be4d-017676e84a68",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "03774d8f-df81-4495-82af-1e482953810d",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "53ed5aed-c78a-4703-86f7-e24dfdd393ba",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "683147ae-d305-4a23-9f89-44db7ea1483a",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "5186a594-5d4f-436d-bc71-f033475c4e27",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "e18c9299-a459-4608-9d18-b7623b75bdd5",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "d787a331-ea93-4851-9bf6-4d8a51f8e08b",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f97ae43c-addc-475b-b390-ac0f5fd7e08a",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "5a14c103-7999-41c6-9e08-726e4b500cc1",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "5a5618ef-6205-4c71-b9a5-8e63ceb9589f",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "37cea453-a176-4bdc-b200-bedcdb67dd8d",
+      "name": "someone's work 14",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c8c77d6a-4f1f-4e4f-9149-ee2ff4bcbfc5",
+      "name": "someone's work 15",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "9fb8072c-557a-4330-a474-65fcd23adab4",
+      "name": "someone's work 16",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "33da2779-4910-49ec-96a3-90848ff02f18",
+      "name": "someone's work 17",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "eed71409-85a2-40ca-acff-cfe491e61ecc",
+      "name": "someone's work 18",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "93bb443a-57ac-4fd4-b037-d66f9a4073ad",
+      "name": "someone's work 19",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "1a00a6a5-01d7-4af1-be98-f0e1d1d8fbad",
+      "name": "someone's work 20",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "621b2a89-5ef5-493e-8325-61b28f24e54a",
+      "name": "someone's work 21",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "70761158-1db5-4142-aa35-a2fe2f2ede13",
+      "name": "someone's work 22",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "be460e1b-b2e6-4ddc-8821-ef2a3b036667",
+      "name": "someone's work 23",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "afa3f784-f125-4a08-abba-3df747e0b166",
+      "name": "someone's work 24",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "caa39181-f436-4b6e-b29d-21ea161f2726",
+      "name": "someone's work 25",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice75": [],
+  "exercice76": [
+    {
+      "id": "132e5633-42f7-4605-968f-5c459d8d17c4",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "28ff6335-5bfc-4c05-a43a-66b13d38b18f",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "2da85c0f-afb1-4297-8edb-720ae6fd5a48",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b0606a03-b2f8-4145-bc98-8b162869b885",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ca5f0011-be54-4196-8de3-0c13dd6570dc",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "2c39e5fc-4f38-4dd6-a225-c7d179c11660",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "17beec02-07ab-47c8-8c1e-d9cf1fce7a68",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "72960e25-2b64-41d7-8e46-cce93655c018",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "3c814955-7db1-4930-be00-47f78a607918",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "4202a35e-09e1-455a-be51-11b5515603c2",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "194c342e-b6d1-4f61-bdae-b8ab92f80124",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "62acce51-10c6-4e1a-a85b-8db16fe495e1",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ccc93726-8ba3-409c-8052-4f1b31301a37",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f0af5e75-a24d-43cb-b26f-5bfd61bb4cb6",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "aa374140-c259-449e-8456-441ef4e6b0f6",
+      "name": "someone's work 14",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ddaf3536-f826-402f-b67c-eed7701441f2",
+      "name": "someone's work 15",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "acd3102c-185a-4aef-96e5-0c0271809aad",
+      "name": "someone's work 16",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "432d5d83-b02e-462c-b729-7fb029457f1f",
+      "name": "someone's work 17",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "705792a0-6998-4161-959a-91ebf82d1176",
+      "name": "someone's work 18",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "0aa231f2-ea17-4af7-a7e3-8b429b37b829",
+      "name": "someone's work 19",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "96f7c2df-f3fc-455e-9a06-487ef4f25ccc",
+      "name": "someone's work 20",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice77": [
+    {
+      "id": "a5c893e5-f2f0-43d0-8639-edae8c30a62c",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "5d5e81c0-e60e-4d46-93ca-d39b7dd4e551",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f57026c6-6c34-4dd5-9b35-ae47d8b29140",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "3f6705ef-15a9-4ee1-9a1f-98849310b9ca",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice78": [
+    {
+      "id": "64a9122a-d14e-4ebe-a622-b420e0279a5b",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "78d59d6e-832a-42da-aea4-f1a48fce2b6b",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "9854996d-be59-4879-8c17-dda9f50a4345",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "3e3cc602-bc2b-4e0a-a676-31a33d4820d0",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "6ed276b6-5d68-4f93-95be-a1052f6d6916",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "3ecf0ba3-6c2c-44d5-95ea-efce95b3e80a",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "bdd85fd9-ed1a-478e-a4e7-1c6e949115b7",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "d8ce34b9-1abf-43f9-85b7-c86c49ac4286",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "1af210eb-0a5a-4fc8-9f69-1ff5c06d333b",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "dbc21721-f837-4578-99d0-b58fe699bb96",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "8edb4d57-4f6f-4066-a367-fe40aa132b53",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "09beb0e7-b58e-41f1-a64e-1dc349a2c7ea",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "4e80d6fa-e3ce-4c7e-96f9-7c1bb90d6fe0",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "392b0aad-99a1-4d1e-a2e7-b4ce5a0c68e1",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "4ea8d475-4ffd-4449-9d0e-3d89a3632f33",
+      "name": "someone's work 14",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "9b134ab2-49de-4d82-9cf2-74d141a08b02",
+      "name": "someone's work 15",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "0c0e6034-f5fb-444c-b71f-7f179cb9fec6",
+      "name": "someone's work 16",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "37923ad8-51b5-4cad-b299-9d5393f05beb",
+      "name": "someone's work 17",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "12bfd456-3b51-475b-8cf3-3ddc01641ae0",
+      "name": "someone's work 18",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice79": [
+    {
+      "id": "a3f09fe5-cb9a-42a0-aba0-0f7e47b84260",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "eee6d81e-9996-4ba8-acbe-05818d9a677c",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "cf6a7025-e5b8-410d-8375-4dd31f06ad72",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "d97715be-d463-4f5a-8b94-b767db24f6e6",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "00a93d2b-35ac-42a6-b0f0-d812f6f7e182",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "43fb06fa-c563-426b-b5f1-2ed2c640820e",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "3c411d76-da87-44d6-8427-044bc09499ab",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "13c9e8d5-bcc2-41b1-8944-3f29f568c437",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c99b9c13-a852-4875-b0f7-15bf78d83c42",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "9a6c0475-5a43-4706-8d63-6aab5e7bcc5f",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "74476cfb-c57d-4c12-bea2-06f2c52da311",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "0013d4a5-0b7d-4a06-8c2a-e69177be9030",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice80": [
+    {
+      "id": "7ea90bf4-0294-4cd8-bf31-146ffc7406bc",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "29e79c86-901e-4f21-9b34-0da7da687218",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "0efe1107-6ab6-46ca-beb0-8abee77870ff",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c33e226b-6e1a-4c74-a5ce-06ec1d26b50b",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "66082961-d766-4e3c-87ab-c7e7be83880c",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "2ce6a3df-7f76-49e5-91df-d26bdf51be72",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c7a6401d-18f9-4de6-bf86-8199df703862",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "4a352424-c1b4-493f-bc6a-8613ea85d6ca",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "e08ec796-345f-4bcb-bff8-c59cd2493458",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "9a42664b-3261-4753-9a95-dc1fabc48032",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "dee254c8-4b78-4c49-ab85-e6152162c856",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "363b3e6c-eed6-4530-a836-293202537c10",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "06400be1-f18b-4364-9a37-ad57e33ec630",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "3a80e396-1fc2-494c-850e-49c585e392e6",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b75603ea-91f0-4dae-afad-0449e0649b65",
+      "name": "someone's work 14",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "d1f85f6e-5317-4e4b-a9aa-ec372d49a9f0",
+      "name": "someone's work 15",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice81": [
+    {
+      "id": "a795c985-614f-4411-a51a-4ff3c7844b66",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "1c0fd472-0050-479e-9985-397cd7877be2",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "4468aecb-d725-4d9c-b029-fa3aa2d43917",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "23509af8-5abd-4edc-a50a-213b8993f083",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b45ce558-5cf5-4eb2-95c7-9fa7dc158bde",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "0efc3a7a-6b1d-4e99-8dd1-63dc309d14e7",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "92f2addb-008e-4c79-9921-945134f8610d",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "86977d1a-a29b-4487-9006-0cf35b1e90fd",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ead2caf4-2373-4629-b266-e00e55a3e8fa",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "63901138-263f-491e-91a7-d6840dc4f7e9",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c37a4f65-4d08-4d7c-a223-8315bfefc675",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "7ab9c90f-5010-4807-9e7f-7aa02e3eb5ed",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "9fccb4ba-9620-4b7c-8467-f17003071b32",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "4f33a081-68ae-4ad9-b085-231170b0fc50",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "58d5bcf9-67c4-4134-90bb-6cc8b159dd3a",
+      "name": "someone's work 14",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "516ae89d-3396-4744-82c9-a6595798f753",
+      "name": "someone's work 15",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "07d348e3-c004-4f6a-8363-121452a9ec48",
+      "name": "someone's work 16",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "3fcf65a3-ff06-4a99-a1b0-9a5c123ea305",
+      "name": "someone's work 17",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "238ec223-e3d5-4476-b212-f3b0fcbc91e1",
+      "name": "someone's work 18",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "47f7b379-ce3d-4a4b-9854-2730b55ee3a4",
+      "name": "someone's work 19",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "4e8ddc9c-1e6b-4372-859a-926ceed548d8",
+      "name": "someone's work 20",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ede3e502-254c-44d2-b3ea-f5cd2e19c9c0",
+      "name": "someone's work 21",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "3cf0a0b7-1e90-4526-9076-db09b6cb56b6",
+      "name": "someone's work 22",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "50dc6e44-d0c8-4bc7-bace-0679cbc3be92",
+      "name": "someone's work 23",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "bf9c860e-4737-4f5f-8a80-96b03baa2c1a",
+      "name": "someone's work 24",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "13cc4006-5467-4569-831a-d9dde1330127",
+      "name": "someone's work 25",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "eb2dffb1-0469-42ac-b336-bfdfd49fa790",
+      "name": "someone's work 26",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "22000037-3e89-49d6-b1ab-d2697dad041a",
+      "name": "someone's work 27",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "46ae5a32-0e3d-4e7b-ad67-d14c2d38148f",
+      "name": "someone's work 28",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice82": [
+    {
+      "id": "4fcc24d2-e46b-43e3-bc4a-63ef37984c51",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "4baf1391-3e22-4847-bb71-15d149ec6ecf",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "0064f50f-4d0a-4140-99ee-a8c0663fa558",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f3237d0c-0709-43c7-a11a-4c414771dae9",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b1bb7736-2964-4d3d-83cd-c8de76704fd9",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "d3f83ce1-ca13-4e2d-b12d-851fbf2b1d64",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b9f84921-bea0-416c-b5b3-ac5015ca6f9d",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ac794ec3-9a9f-4928-82b8-9df207491dc1",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "87df5228-fd15-48c0-b45c-a75ad58c5d70",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "beed4a63-bd6c-4cc7-b51b-987c87c6a17f",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b2e6c1e8-62cf-416b-a1ec-f0a20ab49b98",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f8929755-ddbd-4b3b-b0d1-3c481a8b6c64",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "1eecbc1e-23a8-446d-a334-79151a8b9007",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f2ded211-679c-45c0-b317-bb35b1a142b3",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "4c21d0ab-0155-4962-84e7-bd782ae216e9",
+      "name": "someone's work 14",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "60db3787-729a-45b3-9bd6-405bbf5d3996",
+      "name": "someone's work 15",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "dff21302-73e3-4edb-be69-1389337f078c",
+      "name": "someone's work 16",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "e9653ec0-18f9-4bdc-b4f8-601792d7bcdd",
+      "name": "someone's work 17",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "e9505350-7a8f-46bb-9c22-2b578d1c7b7e",
+      "name": "someone's work 18",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "72870154-7638-410e-bbd9-59de3743d4fc",
+      "name": "someone's work 19",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "6583f4a4-6495-4303-94d3-4ce89e0a4db1",
+      "name": "someone's work 20",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice83": [
+    {
+      "id": "2edeb525-dbef-4f18-b3b5-4cc606a0f7cf",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "be378276-46a5-43ec-80f9-222545ace7b4",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "867f444a-9b82-4988-b290-a769c669c35b",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f5e1318b-dde8-4d5a-a145-c0266e60da2d",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ef72815f-0100-40ef-8308-5be02dcabbf4",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b981df76-31cd-42b2-a43c-3330f5abf10d",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "03d750c2-a7c2-4766-b14e-48778deb260c",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "61dc9778-357d-4362-bfee-8bf5ab2c82f4",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f3848fde-37ca-493e-b7e4-9a1735386928",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "361bcfca-755e-49a8-86c7-fde7367a19e6",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c1f24cf4-6690-4ea0-b3c2-65d172bee7d5",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "7cabc1f4-0fb1-4181-a171-d63a2ef53da8",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "1faa5b3b-02bd-434b-827c-051cb4807e94",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "276f4bc4-2461-4773-9142-d260da0c5688",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "68b2279c-641f-4b24-8416-da40981f365f",
+      "name": "someone's work 14",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "0b2d9702-034d-4cc0-a821-08c7a5867699",
+      "name": "someone's work 15",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "74218371-e732-45d8-8bca-f408254b2ceb",
+      "name": "someone's work 16",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c9b0c0a6-a392-44ee-a236-c0a5293397bb",
+      "name": "someone's work 17",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "2e874d30-956c-4490-8d35-5caea829e738",
+      "name": "someone's work 18",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "7511e37a-bddb-4189-86b0-9f6094dd4d71",
+      "name": "someone's work 19",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "2db033a2-a087-4082-8d18-e2c45b893496",
+      "name": "someone's work 20",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "8a4ac23e-d30d-43ff-8f20-a3267c6b3124",
+      "name": "someone's work 21",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "14aa83c3-ea03-4469-8d66-818c7108de93",
+      "name": "someone's work 22",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "4208e5e1-42e9-4154-a98c-d53bd3dc9c5c",
+      "name": "someone's work 23",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice84": [
+    {
+      "id": "6c09908b-638e-4771-856f-7eaaa7e2af2c",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "5db98b52-0a29-4fd1-8c9b-1764aafdff7b",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f4502cfa-cb1a-40e1-854f-ca8b0377fda5",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "882ce1eb-3c21-4f3c-a57a-e296f57dab81",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c74d7c23-9acf-4388-8c55-5b0767eb8efb",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "82b0b86a-f4ef-48e7-ab1d-fb5908b1b564",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "3440be76-8c1e-42ed-a0b7-bedd55540276",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a1ecda81-4036-4390-ad55-4096f22ba664",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "bc0c254a-b46a-40cd-b0e8-d9b0d9828344",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice85": [
+    {
+      "id": "a98a26e6-68c8-4510-aefb-795f12fe3735",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "9c8a2737-6b58-4713-b58a-c95e780ecdeb",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a2876c6e-b2a8-49e0-9634-6e2221037a6e",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "8ee83cc4-45e3-4171-a18e-9c0b55617d3b",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice86": [
+    {
+      "id": "de7c5f93-e89d-4e37-9d83-7c46aaf66d89",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "488e38e6-2af3-497f-89e7-ea4014f8ae38",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a52ee176-5bb4-4760-8e78-1782e3b5b787",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c7353ab9-c3de-4aca-8620-25220860f42a",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f815bedc-36c1-428e-8893-01d10a151948",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "83145ac9-2eb1-4369-8e32-858d2e8eb0e8",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a007f5d7-9d83-4dbc-9c72-f5da1cf1d20a",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c7f1bbdd-5cb1-4e6a-a46e-07068ba457e2",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "d58086b9-2c09-4d18-b342-f4716482da18",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "47d1b767-0a33-44ae-bc02-db8f52065c51",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "1598e641-756a-4a2f-b85c-75bd2fe46920",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "902c923d-643b-4733-a811-e97cb5ad7101",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "8587f7fc-2d7c-4d3c-8d39-0e086ba351aa",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice87": [
+    {
+      "id": "cce12c2c-422a-41ee-aeca-e5bc33e88119",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "79e13f02-08be-4ed9-86f0-c08e9b88b960",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "d67a50f1-f08c-4884-a8af-62ca0a886461",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "20667900-fde2-4f4a-bcc5-c5ad7caf619a",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "1558dec7-6b9e-4875-a127-49ee01da46ff",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice88": [
+    {
+      "id": "5f661f5d-6df6-4458-b4f8-8c92185cdb6c",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f4725e1c-0605-4d53-a9b5-28932ef6797c",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "abeac956-b078-434a-a860-7040fcae371e",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "3e3ade79-5597-46ff-95d9-b0f0b5fb0157",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "e3474241-7f99-4fc7-b15b-e27d21bca8d7",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c7f21836-1f2c-4185-96a0-c84c5be1169f",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "badf9a5a-ba51-40b7-a7cf-4df52882d7d3",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "770b0d6c-c95b-49fa-9877-95d622337c10",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "5fce724d-e9a1-4906-9c58-1ca55f1c0e76",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "948ff73e-db11-47c3-b5fc-3ad0b44aa435",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "2af460fb-6795-467e-914f-0ed044a69179",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "6e754938-30f4-4429-9c46-d825a61f93ff",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "453feb11-6f26-42a0-a295-2368767f0872",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c02af946-3cf3-4992-a424-4b095448e867",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f1a9b34d-842b-41ae-8406-f7c4b4bccdc8",
+      "name": "someone's work 14",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f381bb8a-4099-41b1-a720-a5835c27b7bc",
+      "name": "someone's work 15",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "fa978698-855d-4500-bd7a-5f4162c05718",
+      "name": "someone's work 16",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "36bb0aac-354c-4228-b863-b1f2b82339b1",
+      "name": "someone's work 17",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a172ec48-7999-4cd1-a8ab-2ee8b9a87165",
+      "name": "someone's work 18",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "1e66f0dc-efbf-4eb9-b104-022b9a9710a2",
+      "name": "someone's work 19",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "e3068326-8711-4e1d-83ac-c6ae6a55d9d0",
+      "name": "someone's work 20",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "8645d834-af6e-470f-a424-33d8621dfc54",
+      "name": "someone's work 21",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "4e31371e-e3eb-44e3-838a-f3c7326f53ca",
+      "name": "someone's work 22",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "6a5914c6-0020-4c48-8dc7-b72df7c0bc4c",
+      "name": "someone's work 23",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "6efb072a-7483-4e6d-8d96-a03580c898c5",
+      "name": "someone's work 24",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "48b9aa37-1c9e-4b55-aea2-d62c42721e41",
+      "name": "someone's work 25",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "77d74dce-3e35-4443-9ca7-9bb83fddca37",
+      "name": "someone's work 26",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice89": [
+    {
+      "id": "6c80d132-f27a-403d-ba9a-40f9f23c9dfc",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice90": [
+    {
+      "id": "48c7b02b-54a7-499b-89ae-488a94dce3f3",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "cf9004a9-6a05-4c4d-b866-541012eb5948",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "57ff0d97-6ec0-4113-a244-5784977dc863",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "65581c58-64d3-49a6-ba94-7116d392dd7e",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "28d920e4-8488-4e51-b879-d9f00bb5d669",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "e3a55d72-ed72-4490-9674-4c54e96499f1",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "24b3ecde-6062-47ac-9136-fe62a5e46ed2",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "57641a0e-d9a7-410f-b546-0e8a6d6311bb",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "750a563d-62e8-4516-b7d2-095f5eb24796",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "1bb17709-c63c-4fa8-9b45-cd6ae2290cd3",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b4b1935a-658c-4067-a491-dc7b96f0c071",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "e8f6b0ae-077f-42a4-a334-50f4b48650ee",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a6b90440-5946-4a25-9155-a811d7adaa49",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "2a0145ed-59fc-4c3f-ac1e-d355cd1d3e0d",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "585216a4-9827-43e6-8882-b51658010323",
+      "name": "someone's work 14",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "287e7337-5eb4-4534-8813-1d5981a06d47",
+      "name": "someone's work 15",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f765a6e2-e563-4dc9-a24a-bc6434a0b819",
+      "name": "someone's work 16",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "d7df46a9-7ef3-47b9-969b-17a1f4a0f3a9",
+      "name": "someone's work 17",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "9690b5fd-3309-4071-9edf-c75604a42aea",
+      "name": "someone's work 18",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "0672b9a5-b6f7-47cc-9b11-863a65d8b664",
+      "name": "someone's work 19",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "78c65bf2-81b6-4530-a6a1-b440091a87a1",
+      "name": "someone's work 20",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b500955b-eced-4c7b-84bc-0a5e3578d834",
+      "name": "someone's work 21",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "685d56bd-93f3-4316-a165-319223860ebf",
+      "name": "someone's work 22",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "d224a38d-1d8f-40ee-8791-dbc06b0cce29",
+      "name": "someone's work 23",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a31fa267-e9ac-4102-bbfe-0fc28329224f",
+      "name": "someone's work 24",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice91": [
+    {
+      "id": "4e164ba0-d7a7-426a-ae8b-4f38f3cb148d",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "29e516d3-8183-423c-9ea9-d91201f3cd5d",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "8913ceff-be17-4e9a-a55b-4430485d7d57",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "da3759ca-d962-439b-89ef-5ad06669ef24",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "458a82ed-e47f-4d1b-a178-3e0827dcc9b4",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "194bd072-0194-4d00-8a36-14e40f980728",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f19af056-fd4a-44f6-8895-636a9402a4ea",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b3cb6906-93ca-485b-8482-fe33a29e4b3c",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice92": [
+    {
+      "id": "5c506a68-ae89-4280-a539-1c82ec3f5155",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "d7e4876a-9cdc-444f-a07d-1c67df0c308b",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "423ae907-b940-40b3-8988-344b28aa3e52",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "703c8e0b-6a8e-4f63-94a5-c49145a25b1d",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b732f418-e1af-4c96-b3af-f6f20b3eedcd",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "d14c142d-37fb-4b9b-9db3-71f4e9ea923c",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "13593b57-a39e-4948-b8e6-efb07fb7ffdd",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "d3a4d6d1-2279-467b-b5da-0f5ecfad7943",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b00461b0-a0a9-4b74-8ad1-1a8fce2743e0",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "eeb0ea47-18dd-48a0-ad8c-4fe772c9747e",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "67b89933-5003-4839-b83d-604524643d25",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "4f92e656-3388-4f1d-9f20-10dc12162ad1",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c68e9baa-5244-4bec-8aec-5e3996877e14",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "8a6b17ff-82f4-483b-abfa-740a35f45a3d",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice93": [
+    {
+      "id": "3290b60c-d5c2-437f-b5c7-08944fc2af39",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "696121d3-2e9d-4e79-8481-e8b6919d4008",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "19149897-18a9-4013-a11e-6a6d704214a8",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b539b685-ce22-4bcd-97c4-f570cadecc0d",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "e8a862e6-d658-4d1c-bb24-af75c580e6bc",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "e639da64-3e30-4af0-91df-b2bd6733e8d9",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "0c4947fc-4fe6-4797-8e66-3ff47585cab6",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c9c6f888-3921-4419-8596-753ca1c64e31",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "25227ad7-1a58-47f2-8fc8-b3d05a49be57",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "32b50221-843f-4245-aef4-d91220fd1d59",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "43c8e2d5-e6c6-4bed-a613-befab4c14272",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a4dffae3-78e6-440e-9141-be097a77a404",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "5ab278ff-6823-4218-82f1-f5f79877e3a8",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "86422c9a-832d-4fcf-b3fb-ad258a95c32b",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f7803ec1-96b4-4266-a43f-8af976fe5d05",
+      "name": "someone's work 14",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "d046a4b5-f26a-445b-9dd4-e941d6321037",
+      "name": "someone's work 15",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "eeef3ff9-f132-4fbd-abab-6757d87654ae",
+      "name": "someone's work 16",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "22e6f7d8-da3e-4de8-9595-77e32b4ed3bf",
+      "name": "someone's work 17",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice94": [
+    {
+      "id": "5d8e400a-6dcc-48ba-893b-31ef2ade18bd",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "11119781-bfb3-426d-b103-d57913257b7f",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "2d35d832-a393-4526-a919-1ac66fd7b565",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice95": [
+    {
+      "id": "d44880c4-f959-4937-a716-1537c6ad28a4",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "0502fe99-14b4-4f03-a697-6eff373701d4",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "09d138cc-092c-4615-bb4e-2deeb9eb70d3",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "74852d2d-512f-4d37-9298-a50e266bf8aa",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c122e829-19a1-4d5d-aad8-a80723a08f32",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f06996b4-8459-4470-b0e0-2e0eb7df1762",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "612c2593-5265-4f00-a6c1-4e1d910480b2",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "5224d4d1-a2b3-4460-95dd-ed4c12bbe197",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "db638584-8a9d-4b9b-bc4f-0947da1d4eb0",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "e9269461-1241-400b-a636-01b587315a3d",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "1fe60ab1-f8cd-4ae8-bc5a-0c74acd90859",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "cbbc20ec-7552-4199-9e38-62251a05d275",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "6dc83fb5-5598-404c-832d-5685c39f7d10",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "da223f49-a350-4316-9f01-d744bdfb55d7",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "048d524f-7c04-496d-9819-92f5696a8b92",
+      "name": "someone's work 14",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "cb20d419-8cee-4b79-a030-3ef69bca2580",
+      "name": "someone's work 15",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "b7148324-dba3-4e08-a8e5-e732edf770f6",
+      "name": "someone's work 16",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "cda553ad-08a1-47b6-9200-432df0377c62",
+      "name": "someone's work 17",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "3373ce0f-5c1b-4c3d-b12d-ef2fc4828ccf",
+      "name": "someone's work 18",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "e7ef0802-ca65-4c0f-b904-4f8475a23dfd",
+      "name": "someone's work 19",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "3615a605-0787-465f-b380-ae52291260b3",
+      "name": "someone's work 20",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "80271487-47bb-4aad-8d97-db4d21a91def",
+      "name": "someone's work 21",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "77ade045-4355-4f74-8a37-ee8602c25d67",
+      "name": "someone's work 22",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "0aa0123e-0790-4ae9-a3f7-e2a2a02b4b11",
+      "name": "someone's work 23",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice96": [
+    {
+      "id": "25596c23-053c-4e5c-bc24-1d424150f6ae",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "aec92abd-8734-4fde-baa3-50b3cc8601de",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice97": [
+    {
+      "id": "9887629c-7522-4f54-abc7-42e8107d474a",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "59669f62-2ff0-4060-873a-00b1fb93ad9b",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "87162746-a8cb-4a84-a111-60f986237b82",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "00fcd41a-3cdb-46f1-a86a-fc587f883063",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ff686f83-68f0-403d-8bcf-e96d46fdc139",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "68f62f8b-728c-431b-9daf-1277e28aef56",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c84b136f-d85a-44f0-9ab4-6b041e04b82f",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "498b1661-7c94-4110-9cc1-2c58e95adc30",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "2ba9e45a-bd46-4fd0-bf5f-13803e765ba1",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "0d0b9992-0694-4860-9fe3-26c1cda90d58",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a284ee9b-5d77-4c62-902a-a85b3f615ea2",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "d842104d-18b0-4b94-b0d9-258ba0736940",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "8c58aa92-65ec-49fd-a43f-3f8979017222",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "e1304406-a7f3-4851-a89f-68f365c831e0",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice98": [
+    {
+      "id": "352d4166-ea9d-4c46-af3c-dcffb25958d1",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "0f093a7b-4226-4ca3-ac1f-c5b69404b732",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "aec1fd45-12b0-4a03-8cf1-07a0c56b4dc7",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "7a78aa89-2f31-40c3-8adc-9766812a3a2b",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f470c582-b841-435b-bcbd-02ce2991a7a4",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "82e3f2cb-6059-44cc-b35a-151179e20ed6",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "ecc45dc6-2141-48b4-8d68-4b04dca70393",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f6a595f8-8a7f-48c4-bc44-e7a2cf6b31f3",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "df5a556b-d1bf-4c33-9d40-1ef3033d146f",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "34565a3c-7258-484e-bcae-c54ab21aa2c0",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "bf03f686-ff8e-44af-ac63-e15ece3c486e",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "340ecc2a-5aa4-4d78-97a5-8a58830babfe",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f8e33861-87d8-4163-b405-1a6bc2a3597b",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "09e74e81-28d1-44ad-840a-ac3c281700a0",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "da83c1c8-64c2-46d6-9d81-9bf92a493c8d",
+      "name": "someone's work 14",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c7c55abd-8843-4cd9-b204-0fa0115b179b",
+      "name": "someone's work 15",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "0e83c8de-d907-4a7d-bcac-daacb76df051",
+      "name": "someone's work 16",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ],
+  "exercice99": [
+    {
+      "id": "cc7ed7e8-d779-4739-a96f-001ddbb337fd",
+      "name": "someone's work 0",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "927327e9-895b-4383-8e94-a8a25ca5ebcd",
+      "name": "someone's work 1",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "a9b15b9f-ee57-4d64-bdef-2df999fecde5",
+      "name": "someone's work 2",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "7ee67c78-9488-493f-9252-961cf526fa76",
+      "name": "someone's work 3",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "f5971bfb-2a2b-452f-ad9c-42ef2dbd8b28",
+      "name": "someone's work 4",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "445023d0-024c-4345-b547-322c11ca000a",
+      "name": "someone's work 5",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "543f1c4c-3298-4064-9ae5-9a38b94cc9e9",
+      "name": "someone's work 6",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "13c46b71-439e-4649-8ff9-88d60e333849",
+      "name": "someone's work 7",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "dcda3e38-782c-4214-86d0-0549500506d4",
+      "name": "someone's work 8",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "c3fc488c-bd3a-4801-a98a-3ec589d4e9d6",
+      "name": "someone's work 9",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "5efa3aef-ef60-439c-8336-294410c6bc41",
+      "name": "someone's work 10",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "596eeaa0-7a11-422a-9598-7ab67083507d",
+      "name": "someone's work 11",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "7232ab6f-dd6e-4c1a-adba-12a1c9d8e9b1",
+      "name": "someone's work 12",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "d0483507-f0e5-452b-a385-4e8814f61182",
+      "name": "someone's work 13",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "cd91aa44-c860-4ac4-b2ee-9e48831831cd",
+      "name": "someone's work 14",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "dc374c7a-5378-47b2-aecb-4f81de0a3498",
+      "name": "someone's work 15",
+      "url": "https://www.hackyourfuture.net"
+    },
+    {
+      "id": "9161a18e-d6b8-461e-a2a7-2e66124730fd",
+      "name": "someone's work 16",
+      "url": "https://www.hackyourfuture.net"
+    }
+  ]
+}

@@ -1,27 +1,32 @@
+"use client";
+
 import stylex from "@stylexjs/stylex";
 import ListItem from './ListItem';
+import { Data } from '../types/types';
 
-interface ListProps {
-    listObj: Array<{
-        id: string;
-        name: string;
-        url: string;
-    }>;
-    title: string;
-}
+type ListProps = {
+    data: Data;
+};
 
-const List: React.FC<ListProps> = ({ listObj = [], title }) => (
-    <div>
-        <h1 {...stylex.props(stylesList.heading)}>{title}</h1>
-        <ul {...stylex.props(stylesList.list)}>
-            {listObj.map(item => (
-                <ListItem key={item.id} {...item} />
+const List: React.FC<ListProps> = ({ data }) => {
+    return (
+        <>
+            {Object.keys(data).map((key) => (
+                <div key={key}>
+                    <h2  {...stylex.props(stylesList.heading)}>{key}</h2>
+                    <ul {...stylex.props(stylesList.list)}>
+                        {data[key].map((item) => (
+                            <ListItem key={item.id} {...item} />
+                        ))}
+                    </ul>
+                </div>
             ))}
-        </ul>
-    </div>
-);
+        </>
+    );
+};
 
 export default List;
+
 
 const stylesList = stylex.create({
     heading: {

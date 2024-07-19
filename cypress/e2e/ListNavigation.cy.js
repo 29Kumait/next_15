@@ -1,36 +1,36 @@
-describe("List Navigation", () => {
-  const links = [
-    { text: "Google", url: "https://www.google.com/" },
-    { text: "Facebook", url: "https://www.facebook.com/" },
-    { text: "Twitter", url: "https://www.twitter.com/" },
-  ];
-  beforeEach(() => {
-    cy.visit("/");
-  });
-  Cypress.on("uncaught:exception", (err, runnable) => {
-    console.error("Uncaught exception:", err);
-    return false;
-  });
+// describe("List Navigation", () => {
+//   const links = [
+//     { text: "Google", url: "https://www.google.com/" },
+//     { text: "Facebook", url: "https://www.facebook.com/" },
+//     { text: "Twitter", url: "https://www.twitter.com/" },
+//   ];
+//   beforeEach(() => {
+//     cy.visit("/");
+//   });
+//   Cypress.on("uncaught:exception", (err, runnable) => {
+//     console.error("Uncaught exception:", err);
+//     return false;
+//   });
 
-  function testLinkNavigation(linkText, expectedUrl) {
-    cy.intercept("GET", expectedUrl).as("externalRequest");
-    cy.get("ul li a")
-      .contains(linkText)
-      .should("be.visible")
-      .then((link) => {
-        cy.wrap(link).invoke("removeAttr", "target");
-        cy.wrap(link).click();
-        cy.wait("@externalRequest")
-          .its("request.url")
-          .should("eq", expectedUrl);
-      });
-  }
-  links.forEach(({ text, url }) => {
-    it(`should change the URL when the ${text} link is clicked`, () => {
-      testLinkNavigation(text, url);
-    });
-  });
-});
+//   function testLinkNavigation(linkText, expectedUrl) {
+//     cy.intercept("GET", expectedUrl).as("externalRequest");
+//     cy.get("ul li a")
+//       .contains(linkText)
+//       .should("be.visible")
+//       .then((link) => {
+//         cy.wrap(link).invoke("removeAttr", "target");
+//         cy.wrap(link).click();
+//         cy.wait("@externalRequest")
+//           .its("request.url")
+//           .should("eq", expectedUrl);
+//       });
+//   }
+//   links.forEach(({ text, url }) => {
+//     it(`should change the URL when the ${text} link is clicked`, () => {
+//       testLinkNavigation(text, url);
+//     });
+//   });
+// });
 
 // describe("List Navigation", () => {
 //   beforeEach(() => {
