@@ -1,17 +1,11 @@
-// describe("List Navigation", () => {
-//   beforeEach(() => {
-//     cy.visit("/");
-//   });
+describe("Link Click Test", () => {
+  it("should change the URL when a link/item is clicked", () => {
+    cy.visit(Cypress.env("CYPRESS_BASE_URL") || "http://localhost:3000");
+    cy.get("ul > li > a").first().click();
 
-//   it("should change URL when clicking on a list item link", () => {
-//     cy.get("ul > li > a").first().click();
-
-//     cy.get("ul > li > a")
-//       .first()
-//       .then(($link) => {
-//         const url = $link.attr("href");
-//         cy.log(`Captured URL: ${url}`);
-//         cy.url().should("include", url);
-//       });
-//   });
-// });
+    cy.url().should(
+      "not.eq",
+      Cypress.env("CYPRESS_BASE_URL") || "http://localhost:3000"
+    );
+  });
+});
