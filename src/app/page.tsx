@@ -1,7 +1,12 @@
 import Head from "../components/Head";
-import ServerList from "../components/ServerList";
+import { fetchListData } from "../actions/actions";
+import List from "../components/List";
+import { Data } from '../types/types';
 
-const Home = () => {
+
+export default async function Home() {
+  const data: Data = await fetchListData();
+
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
       <div className="w-full max-w-5xl border-4 border-gray-800 p-8">
@@ -11,11 +16,9 @@ const Home = () => {
           <Head title="List of Works" />
         </div>
         <div>
-          <ServerList />
+          <List data={data} />;
         </div>
       </div>
     </main>
   );
 };
-
-export default Home;

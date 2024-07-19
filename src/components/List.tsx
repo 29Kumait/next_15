@@ -1,5 +1,3 @@
-"use client";
-
 import stylex from "@stylexjs/stylex";
 import ListItem from './ListItem';
 import { Data } from '../types/types';
