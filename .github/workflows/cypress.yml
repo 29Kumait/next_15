@@ -3,27 +3,27 @@ on: [push]
 jobs:
   cypress-run:
     runs-on: ubuntu-22.04
-	strategy:
-	  fail-fast: false
-	  matrix:
-		containers: [1, 2]
-	steps:
-	  - name: Checkout
-		uses: actions/checkout@v4
+    strategy:
+      fail-fast: false
+      matrix:
+        containers: [1, 2]
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
 
-	  - name: Install dependencies
-		run: npm ci
+      - name: Install dependencies
+        run: npm ci
 
-	  - name: Build Next.js application
-		run: npm run build
+      - name: Build Next.js application
+        run: npm run build
 
-	  - name: Cypress run
-		uses: cypress-io/github-action@v6
-		with:
-		  start: npm start
-		  wait-on: "http://localhost:3000"
-		  record: true
-		  parallel: true
-		env:
-		  CYPRESS_RECORD_KEY: ${{ secrets.CYPRESS_RECORD_KEY }}
-		  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Cypress run
+        uses: cypress-io/github-action@v6
+        with:
+          start: npm start
+          wait-on: "http://localhost:3000"
+          record: true
+          parallel: true
+        env:
+          CYPRESS_RECORD_KEY: ${{ secrets.CYPRESS_RECORD_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
