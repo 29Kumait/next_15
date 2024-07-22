@@ -49,14 +49,29 @@ describe("Link Click Test", () => {
 });
 
 // one random
+// describe("Link Click Test", () => {
+//   it("should change the URL when a random link/item is clicked", () => {
+//     const baseURL = Cypress.env("CYPRESS_BASE_URL") || "http://localhost:3000";
+//
+//     cy.visit(baseURL);
+//
+//     cy.get("ul > li > a").then(($links) => {
+//       const randomIndex = Math.floor(Math.random() * $links.length);
+//       cy.get("ul > li > a").eq(randomIndex).click();
+//       cy.url().should("not.eq", baseURL);
+//       cy.visit(baseURL);
+//     });
+//   });
+// });
+
 describe("Link Click Test", () => {
   it("should change the URL when a random link/item is clicked", () => {
     const baseURL = Cypress.env("CYPRESS_BASE_URL") || "http://localhost:3000";
 
     cy.visit(baseURL);
 
-    cy.get("ul > li > a").then(($links) => {
-      const randomIndex = Math.floor(Math.random() * $links.length);
+    cy.get("ul > li > a").then((links) => {
+      const randomIndex = Math.floor(Math.random() * links.length);
       cy.get("ul > li > a").eq(randomIndex).click();
       cy.url().should("not.eq", baseURL);
       cy.visit(baseURL);
