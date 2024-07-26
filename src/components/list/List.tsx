@@ -1,6 +1,7 @@
+import React from "react";
 import stylex from "@stylexjs/stylex";
 import ListItem from "./ListItem";
-import { Data } from "../types/types";
+import { Data } from "@/types/types";
 
 type ListProps = {
   data: Data;
