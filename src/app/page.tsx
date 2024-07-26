@@ -2,6 +2,7 @@ import Head from "../components/head/Head";
 import { fetchListData } from "@/actions/actions";
 import List from "../components/list/List";
 import { Data } from "@/types/types";
+import ListButton from "@/components/list/ListButton";
 
 export default async function Home() {
   const filePath = "src/data.json";
@@ -15,7 +16,9 @@ export default async function Home() {
           <Head title="List of Works" />
         </div>
         <div>
-          <List data={data} />;
+          <ListButton>
+            <List data={data} />;
+          </ListButton>
         </div>
       </div>
     </main>
